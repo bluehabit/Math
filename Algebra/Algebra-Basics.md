@@ -1,10 +1,18 @@
 Created using 12pt (large) font on https://www.codecogs.com/latex/eqneditor.php also http://www.hostmath.com/
 
 <h1>Math</h1>
+
+<h3>Negative Numbers</h3>
+
+You essentially divide out the negative. Any number divided by itself is `1`. So `-1/-1=1`. So let's say you have `-8/-1`. You can factor this out to be `(-1*8)/-1`. The `-1` is on top and bottom so you can replace it by `1`. Now you get a positive.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{-6}{-9}=\frac{2}{3}&space;\newline&space;\newline&space;-5*-5&space;=25" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{-6}{-9}=\frac{2}{3}&space;\newline&space;\newline&space;-5*-5&space;=25" title="\newline \frac{-6}{-9}=\frac{2}{3} \newline \newline -5*-5 =25" /></a>
  
 All three of the methods below: GCF, LCD, GCD all utilize *prime factorization*. 
 
 <h2>Fractions</h2>
+
+![f](https://imgur.com/8QQqnQl.png)
 
 <h3>Very Important!</h3>
 
@@ -806,3 +814,99 @@ In order to solve for a variable correctly you must know the order of operations
 Parenthesis first, exponents and roots second, multiplication third, division third (multiplication and division should be done working from left to right), addition, subtraction (again both done working from left to right). 
 
 When working with fractions think of numerators and denominators being in parenthesis as far as steps are concerned. 
+
+---
+
+To solve equations for an unknown variable, use *inverse* operations to isolate the variable. These inverse orations are used to "undo" what has been done to the variable. These inverse operations allow us to move terms across the equal sign. 
+
+Important example below. Here we had a `-x` value. When you see `-x` you can view it as `-1` of that variable. Then we just multiply by reciprocal to get rid of it. 
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;-x=2&space;\newline&space;-1x=2&space;\newline&space;\newline&space;\frac{1}{-1}\cdot\frac{-1x}{1}=2\cdot\frac{1}{-1}&space;\newline&space;=\frac{2}{-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;-x=2&space;\newline&space;-1x=2&space;\newline&space;\newline&space;\frac{1}{-1}\cdot\frac{-1x}{1}=2\cdot\frac{1}{-1}&space;\newline&space;=\frac{2}{-1}" title="\newline -x=2 \newline -1x=2 \newline \newline \frac{1}{-1}\cdot\frac{-1x}{1}=2\cdot\frac{1}{-1} \newline =\frac{2}{-1}" /></a>
+
+More Examples:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;4x=36&space;\newline&space;\newline&space;\frac{4x}{4}=\frac{36}{4}&space;\newline&space;\newline&space;x=9&space;\newline&space;\newline&space;\newline&space;-2x=-26&space;\newline&space;\newline&space;\frac{-2x}{2}=\frac{-26}{-2}&space;\newline&space;\newline&space;x=13&space;\newline&space;\newline&space;\newline&space;\frac{3}{4}x=24&space;\newline&space;\newline&space;\frac{4}{3}\cdot\frac{3}{4}x=24\cdot\frac{4}{3}&space;\newline&space;\newline&space;x=32&space;\newline&space;\newline&space;\newline&space;\frac{-1}{3}x=5&space;\newline&space;\newline&space;\frac{3}{-1}\cdot\frac{-1}{3}x=5&space;\newline&space;\newline&space;x=5\cdot\frac{-3}{1}&space;\newline&space;\newline&space;x=-15" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;4x=36&space;\newline&space;\newline&space;\frac{4x}{4}=\frac{36}{4}&space;\newline&space;\newline&space;x=9&space;\newline&space;\newline&space;\newline&space;-2x=-26&space;\newline&space;\newline&space;\frac{-2x}{2}=\frac{-26}{-2}&space;\newline&space;\newline&space;x=13&space;\newline&space;\newline&space;\newline&space;\frac{3}{4}x=24&space;\newline&space;\newline&space;\frac{4}{3}\cdot\frac{3}{4}x=24\cdot\frac{4}{3}&space;\newline&space;\newline&space;x=32&space;\newline&space;\newline&space;\newline&space;\frac{-1}{3}x=5&space;\newline&space;\newline&space;\frac{3}{-1}\cdot\frac{-1}{3}x=5&space;\newline&space;\newline&space;x=5\cdot\frac{-3}{1}&space;\newline&space;\newline&space;x=-15" title="\newline 4x=36 \newline \newline \frac{4x}{4}=\frac{36}{4} \newline \newline x=9 \newline \newline \newline -2x=-26 \newline \newline \frac{-2x}{2}=\frac{-26}{-2} \newline \newline x=13 \newline \newline \newline \frac{3}{4}x=24 \newline \newline \frac{4}{3}\cdot\frac{3}{4}x=24\cdot\frac{4}{3} \newline \newline x=32 \newline \newline \newline \frac{-1}{3}x=5 \newline \newline \frac{3}{-1}\cdot\frac{-1}{3}x=5 \newline \newline x=5\cdot\frac{-3}{1} \newline \newline x=-15" /></a>
+
+The general steps will always be the same.
+
+1. simplify both sides of the equation
+2. collect all terms with variables in them on one side of the equation and all non variable terms on the other side.
+3. *Factor out* the variable
+4. divide both sides of the equation by the variables coefficient that has been factored out in step 3. 
+
+
+More examples: 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;2x&plus;16=10&space;\newline&space;2x=-6&space;\newline&space;\newline&space;\frac{2x}{2}=\frac{-6}{2}&space;\newline&space;\newline&space;x=-3&space;\newline&space;\newline&space;\newline&space;\frac{3}{2}x-1=5&space;\newline&space;\newline&space;\frac{2}{3}\cdot\frac{3}{2}x=6\cdot\frac{2}{3}&space;\newline&space;x=6\cdot\frac{2}{3}&space;\newline&space;x=4&space;\newline&space;\newline&space;\newline&space;6(8-2x)&plus;25=5(2-3x)&space;\newline&space;48-12x&plus;25=10-15x&space;\newline&space;73-12x=10-15x&space;\newline&space;73&plus;3x=10&space;\newline&space;\frac{3x}{3}=\frac{-63}{3}&space;\newline&space;x=-21&space;\newline&space;\newline&space;\newline" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;2x&plus;16=10&space;\newline&space;2x=-6&space;\newline&space;\newline&space;\frac{2x}{2}=\frac{-6}{2}&space;\newline&space;\newline&space;x=-3&space;\newline&space;\newline&space;\newline&space;\frac{3}{2}x-1=5&space;\newline&space;\newline&space;\frac{2}{3}\cdot\frac{3}{2}x=6\cdot\frac{2}{3}&space;\newline&space;x=6\cdot\frac{2}{3}&space;\newline&space;x=4&space;\newline&space;\newline&space;\newline&space;6(8-2x)&plus;25=5(2-3x)&space;\newline&space;48-12x&plus;25=10-15x&space;\newline&space;73-12x=10-15x&space;\newline&space;73&plus;3x=10&space;\newline&space;\frac{3x}{3}=\frac{-63}{3}&space;\newline&space;x=-21&space;\newline&space;\newline&space;\newline" title="\newline 2x+16=10 \newline 2x=-6 \newline \newline \frac{2x}{2}=\frac{-6}{2} \newline \newline x=-3 \newline \newline \newline \frac{3}{2}x-1=5 \newline \newline \frac{2}{3}\cdot\frac{3}{2}x=6\cdot\frac{2}{3} \newline x=6\cdot\frac{2}{3} \newline x=4 \newline \newline \newline 6(8-2x)+25=5(2-3x) \newline 48-12x+25=10-15x \newline 73-12x=10-15x \newline 73+3x=10 \newline \frac{3x}{3}=\frac{-63}{3} \newline x=-21 \newline \newline \newline" /></a>
+
+<h3>Linear Equations with Fractions</h3>
+
+When the equation you are given has fractions and you prefer not to work with them, you can clear the fractions in the first step. The solution could still of course be a fraction - but you don't have to work with them while solving.
+
+To clear all the fractions, find the LCD of all fractions and multiply both sides of the equation by this number. Then distribute this quantity on each side of the equation.
+
+
+LCD for below is 5
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{4}{5}x&plus;1=-4&space;\newline&space;5[\frac{4}{5}x&plus;1]=5(-4)&space;\newline&space;\newline&space;4x&plus;5=-20&space;\newline&space;\newline&space;\frac{4x}{4}=\frac{-25}{4}&space;\newline&space;\newline&space;x=\frac{-25}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{4}{5}x&plus;1=-4&space;\newline&space;5[\frac{4}{5}x&plus;1]=5(-4)&space;\newline&space;\newline&space;4x&plus;5=-20&space;\newline&space;\newline&space;\frac{4x}{4}=\frac{-25}{4}&space;\newline&space;\newline&space;x=\frac{-25}{4}" title="\newline \frac{4}{5}x+1=-4 \newline 5[\frac{4}{5}x+1]=5(-4) \newline \newline 4x+5=-20 \newline \newline \frac{4x}{4}=\frac{-25}{4} \newline \newline x=\frac{-25}{4}" /></a>
+
+LCD for below is 18
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{3}{2}x-\frac{1}{6}x&plus;\frac{2}{9}=\frac{1}{3}&space;\newline&space;\newline&space;18[\frac{3}{2}x-\frac{1}{6}&plus;\frac{2}{9}]=\frac{1}{3}(18)&space;\newline&space;\newline&space;27x-3x&plus;4=6&space;\newline&space;24x&plus;4=6&space;\newline&space;24x=2&space;\newline&space;\newline&space;\frac{24}{24}x=\frac{2}{24}&space;\newline&space;x=\frac{1}{12}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{3}{2}x-\frac{1}{6}x&plus;\frac{2}{9}=\frac{1}{3}&space;\newline&space;\newline&space;18[\frac{3}{2}x-\frac{1}{6}&plus;\frac{2}{9}]=\frac{1}{3}(18)&space;\newline&space;\newline&space;27x-3x&plus;4=6&space;\newline&space;24x&plus;4=6&space;\newline&space;24x=2&space;\newline&space;\newline&space;\frac{24}{24}x=\frac{2}{24}&space;\newline&space;x=\frac{1}{12}" title="\newline \frac{3}{2}x-\frac{1}{6}x+\frac{2}{9}=\frac{1}{3} \newline \newline 18[\frac{3}{2}x-\frac{1}{6}+\frac{2}{9}]=\frac{1}{3}(18) \newline \newline 27x-3x+4=6 \newline 24x+4=6 \newline 24x=2 \newline \newline \frac{24}{24}x=\frac{2}{24} \newline x=\frac{1}{12}" /></a>
+
+LCD for below is 15
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{1}{5}(2x-4)=\frac{1}{3}(x&plus;2)&space;\newline&space;\newline&space;15[\frac{1}{5}(2x-4)]=15[\frac{1}{3}(x&plus;2)]&space;\newline&space;\newline&space;3(2x-4)=5(x&plus;2)&space;\newline&space;\newline&space;6x-12=5x&plus;10&space;\newline&space;x-12=10&space;\newline&space;x=22" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{1}{5}(2x-4)=\frac{1}{3}(x&plus;2)&space;\newline&space;\newline&space;15[\frac{1}{5}(2x-4)]=15[\frac{1}{3}(x&plus;2)]&space;\newline&space;\newline&space;3(2x-4)=5(x&plus;2)&space;\newline&space;\newline&space;6x-12=5x&plus;10&space;\newline&space;x-12=10&space;\newline&space;x=22" title="\newline \frac{1}{5}(2x-4)=\frac{1}{3}(x+2) \newline \newline 15[\frac{1}{5}(2x-4)]=15[\frac{1}{3}(x+2)] \newline \newline 3(2x-4)=5(x+2) \newline \newline 6x-12=5x+10 \newline x-12=10 \newline x=22" /></a>
+
+<h3>Linear Equations and Decimals</h3>
+
+Because decimal numbers are fractions in disguise, the same trick can be used to 'clear the decimal' in equations with decimal numbers. Count the largest number of digits behind each decimal point and multiply both sides of the equation by 10 raised to the power of that number.
+
+In this example the largest number of digits behind a decimal is 2. Therefore we use `10^2` which is `100`, we multiply each side of the equation by `100` to clear it.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;.25x&plus;.6=.1&space;\newline&space;100(.25x&plus;.6)=100(.1)&space;\newline&space;25x&plus;60=10&space;\newline&space;25x=-50&space;\newline&space;\newline&space;\frac{25x}{25}=\frac{-50}{25}&space;\newline&space;x=-2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;.25x&plus;.6=.1&space;\newline&space;100(.25x&plus;.6)=100(.1)&space;\newline&space;25x&plus;60=10&space;\newline&space;25x=-50&space;\newline&space;\newline&space;\frac{25x}{25}=\frac{-50}{25}&space;\newline&space;x=-2" title="\newline .25x+.6=.1 \newline 100(.25x+.6)=100(.1) \newline 25x+60=10 \newline 25x=-50 \newline \newline \frac{25x}{25}=\frac{-50}{25} \newline x=-2" /></a>
+
+More Examples:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;.3(x-2)&plus;.1=.4&space;\newline&space;10[.3(x-2)&plus;10(.1)]=.4(10)&space;\newline&space;30(x-2)&plus;10=40&space;\newline&space;30x-60&plus;10=40&space;\newline&space;30x-50=40&space;\newline&space;\frac{30x}{30}=\frac{90}{30}&space;\newline&space;x=3&space;\newline&space;\newline&space;\newline&space;.12-.4(x&plus;1)&plus;x=.5x&plus;2&space;\newline&space;100[.12-.4(x&plus;1)&plus;x]=100[.5x&plus;2]&space;\newline&space;12-40(x&plus;1)&plus;100x=50x&plus;200&space;\newline&space;12-40x-40&plus;100x=50x&plus;200&space;\newline&space;60x-28=50x&plus;200&space;\newline&space;10x-28=200&space;\newline&space;\frac{10x}{10}=\frac{228}{10}&space;\newline&space;x=22.8" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;.3(x-2)&plus;.1=.4&space;\newline&space;10[.3(x-2)&plus;10(.1)]=.4(10)&space;\newline&space;30(x-2)&plus;10=40&space;\newline&space;30x-60&plus;10=40&space;\newline&space;30x-50=40&space;\newline&space;\frac{30x}{30}=\frac{90}{30}&space;\newline&space;x=3&space;\newline&space;\newline&space;\newline&space;.12-.4(x&plus;1)&plus;x=.5x&plus;2&space;\newline&space;100[.12-.4(x&plus;1)&plus;x]=100[.5x&plus;2]&space;\newline&space;12-40(x&plus;1)&plus;100x=50x&plus;200&space;\newline&space;12-40x-40&plus;100x=50x&plus;200&space;\newline&space;60x-28=50x&plus;200&space;\newline&space;10x-28=200&space;\newline&space;\frac{10x}{10}=\frac{228}{10}&space;\newline&space;x=22.8" title="\newline .3(x-2)+.1=.4 \newline 10[.3(x-2)+10(.1)]=.4(10) \newline 30(x-2)+10=40 \newline 30x-60+10=40 \newline 30x-50=40 \newline \frac{30x}{30}=\frac{90}{30} \newline x=3 \newline \newline \newline .12-.4(x+1)+x=.5x+2 \newline 100[.12-.4(x+1)+x]=100[.5x+2] \newline 12-40(x+1)+100x=50x+200 \newline 12-40x-40+100x=50x+200 \newline 60x-28=50x+200 \newline 10x-28=200 \newline \frac{10x}{10}=\frac{228}{10} \newline x=22.8" /></a>
+
+<h3>Formulas</h3>
+
+At times in math students are given a formula like <a href="https://www.codecogs.com/eqnedit.php?latex=I&space;=&space;Prt" target="_blank"><img src="https://latex.codecogs.com/gif.latex?I&space;=&space;Prt" title="I = Prt" /></a> and asked to solve for one of the variables, that is, to isolate that particular variable on one side of the equation.
+
+Many people are confused by the presence of *multiple variables*. The trick is to think of the variable for which you are trying to solve for as `x` and all the other variables as *fixed numbers*. 
+
+Solve for `r`.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;I&space;=&space;Prt&space;\newline&space;\newline&space;\frac{I}{pt}=\frac{r}{pt}&space;\newline&space;\frac{I}{pt}=r" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;I&space;=&space;Prt&space;\newline&space;\newline&space;\frac{I}{pt}=\frac{r}{pt}&space;\newline&space;\frac{I}{pt}=r" title="\newline I = Prt \newline \newline \frac{I}{pt}=\frac{r}{pt} \newline \frac{I}{pt}=r" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;P=pq-c&space;\newline&space;P&plus;c=pq&space;\newline&space;\frac{P&plus;c}{p}=\frac{pq}{p}&space;\newline&space;\newline&space;\frac{P&plus;c}{p}=q" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;P=pq-c&space;\newline&space;P&plus;c=pq&space;\newline&space;\frac{P&plus;c}{p}=\frac{pq}{p}&space;\newline&space;\newline&space;\frac{P&plus;c}{p}=q" title="\newline P=pq-c \newline P+c=pq \newline \frac{P+c}{p}=\frac{pq}{p} \newline \newline \frac{P+c}{p}=q" /></a>
+
+Solve for `m`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;y-y_1=mx-mx_1&space;\newline&space;y-y_1=m(x-x_1)&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=\frac{m(x-x_1)}{(x-x_1)}&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;y-y_1=mx-mx_1&space;\newline&space;y-y_1=m(x-x_1)&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=\frac{m(x-x_1)}{(x-x_1)}&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=m" title="\newline y-y_1=mx-mx_1 \newline y-y_1=m(x-x_1) \newline \newline \frac{y-y_1}{x-x_1}=\frac{m(x-x_1)}{(x-x_1)} \newline \newline \frac{y-y_1}{x-x_1}=m" /></a>
+
+
+
+![f](https://imgur.com/ekS9IgN.png)
+
+
+Very important example below:
+Solve for `b`
+
+
+
+![f](https://imgur.com/fZEfbuI.png)
+
+can break this answer down further:
+
+![f](https://imgur.com/kLf6ZQA.png)
+
+
+Protips:
+
+![f](https://imgur.com/8QQqnQl.png)
+
+![f](https://imgur.com/gro55Ed.png)
+

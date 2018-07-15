@@ -1079,3 +1079,16 @@ Note: you must *isolate* the variable before squaring both sides.
 
 <h2>Linear Inequalities</h2>
 
+![f](https://imgur.com/LnXBe2m.png)
+
+Keywords:
+
+**Less Than**- Means the arrow will point to the left
+
+**Greater than**- Means the arrow will point to the right
+
+<h3>Solving Linear Inequalities</h3>
+
+Linear inequalities are solved much the same as linear equations with one exception. When *multiplying or dividing* both sides of an inequality by a negative number the inequality sign must be flipped. Adding / subtracting never changes direction of inequality sign. 
+
+ 

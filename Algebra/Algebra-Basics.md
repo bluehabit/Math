@@ -710,6 +710,8 @@ Examples:
 
 <h3>Quadratic Polynomyials</h3>
 
+![f](https://imgur.com/maVGclv.png)
+
 ![f](https://imgur.com/jlu1SMg.png)
 <a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;ax^2&plus;bx&plus;c" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;ax^2&plus;bx&plus;c" title="\large ax^2+bx+c" /></a>
 
@@ -840,6 +842,10 @@ More examples:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;2x&plus;16=10&space;\newline&space;2x=-6&space;\newline&space;\newline&space;\frac{2x}{2}=\frac{-6}{2}&space;\newline&space;\newline&space;x=-3&space;\newline&space;\newline&space;\newline&space;\frac{3}{2}x-1=5&space;\newline&space;\newline&space;\frac{2}{3}\cdot\frac{3}{2}x=6\cdot\frac{2}{3}&space;\newline&space;x=6\cdot\frac{2}{3}&space;\newline&space;x=4&space;\newline&space;\newline&space;\newline&space;6(8-2x)&plus;25=5(2-3x)&space;\newline&space;48-12x&plus;25=10-15x&space;\newline&space;73-12x=10-15x&space;\newline&space;73&plus;3x=10&space;\newline&space;\frac{3x}{3}=\frac{-63}{3}&space;\newline&space;x=-21&space;\newline&space;\newline&space;\newline" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;2x&plus;16=10&space;\newline&space;2x=-6&space;\newline&space;\newline&space;\frac{2x}{2}=\frac{-6}{2}&space;\newline&space;\newline&space;x=-3&space;\newline&space;\newline&space;\newline&space;\frac{3}{2}x-1=5&space;\newline&space;\newline&space;\frac{2}{3}\cdot\frac{3}{2}x=6\cdot\frac{2}{3}&space;\newline&space;x=6\cdot\frac{2}{3}&space;\newline&space;x=4&space;\newline&space;\newline&space;\newline&space;6(8-2x)&plus;25=5(2-3x)&space;\newline&space;48-12x&plus;25=10-15x&space;\newline&space;73-12x=10-15x&space;\newline&space;73&plus;3x=10&space;\newline&space;\frac{3x}{3}=\frac{-63}{3}&space;\newline&space;x=-21&space;\newline&space;\newline&space;\newline" title="\newline 2x+16=10 \newline 2x=-6 \newline \newline \frac{2x}{2}=\frac{-6}{2} \newline \newline x=-3 \newline \newline \newline \frac{3}{2}x-1=5 \newline \newline \frac{2}{3}\cdot\frac{3}{2}x=6\cdot\frac{2}{3} \newline x=6\cdot\frac{2}{3} \newline x=4 \newline \newline \newline 6(8-2x)+25=5(2-3x) \newline 48-12x+25=10-15x \newline 73-12x=10-15x \newline 73+3x=10 \newline \frac{3x}{3}=\frac{-63}{3} \newline x=-21 \newline \newline \newline" /></a>
 
+<h3>Reciprocals</h3>
+
+![f](https://imgur.com/MiPFktg.png)
+
 <h3>Linear Equations with Fractions</h3>
 
 When the equation you are given has fractions and you prefer not to work with them, you can clear the fractions in the first step. The solution could still of course be a fraction - but you don't have to work with them while solving.
@@ -885,12 +891,14 @@ Solve for `r`.
 
 Solve for `m`
 
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;y-y_1=mx-mx_1&space;\newline&space;y-y_1=m(x-x_1)&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=\frac{m(x-x_1)}{(x-x_1)}&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;y-y_1=mx-mx_1&space;\newline&space;y-y_1=m(x-x_1)&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=\frac{m(x-x_1)}{(x-x_1)}&space;\newline&space;\newline&space;\frac{y-y_1}{x-x_1}=m" title="\newline y-y_1=mx-mx_1 \newline y-y_1=m(x-x_1) \newline \newline \frac{y-y_1}{x-x_1}=\frac{m(x-x_1)}{(x-x_1)} \newline \newline \frac{y-y_1}{x-x_1}=m" /></a>
 
+*Expressions* should always go in *parenthesis*  for order of operations to execute correctly on calculator. 
 
-
+![f](https://imgur.com/gkd1Xrz.png)
+![f](https://imgur.com/XN6ZjNV.png)
 ![f](https://imgur.com/ekS9IgN.png)
-
 
 Very important example below:
 Solve for `b`
@@ -909,4 +917,85 @@ Protips:
 ![f](https://imgur.com/8QQqnQl.png)
 
 ![f](https://imgur.com/gro55Ed.png)
+
+More Examples:
+
+Solve for `h`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;A=\frac{1}{2}bh&space;\newline&space;\newline&space;A=\Big(\frac{1}{2}b\Big)h&space;\newline&space;\newline&space;\frac{2}{1}\cdot&space;A=\Big(\frac{2}{1}\cdot\frac{1}{2}\Big)bh&space;\newline&space;\newline&space;2A&space;=&space;bh&space;\newline&space;\newline&space;\frac{2A}{b}=h" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;A=\frac{1}{2}bh&space;\newline&space;\newline&space;A=\Big(\frac{1}{2}b\Big)h&space;\newline&space;\newline&space;\frac{2}{1}\cdot&space;A=\Big(\frac{2}{1}\cdot\frac{1}{2}\Big)bh&space;\newline&space;\newline&space;2A&space;=&space;bh&space;\newline&space;\newline&space;\frac{2A}{b}=h" title="\newline A=\frac{1}{2}bh \newline \newline A=\Big(\frac{1}{2}b\Big)h \newline \newline \frac{2}{1}\cdot A=\Big(\frac{2}{1}\cdot\frac{1}{2}\Big)bh \newline \newline 2A = bh \newline \newline \frac{2A}{b}=h" /></a>
+
+Solve for `r`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\newline&space;C=2\pi&space;r&space;\newline&space;\newline&space;\frac{C}{2\pi}=\frac{2\pi&space;r}{2\pi}&space;\newline&space;\newline&space;\frac{C}{2\pi}=r" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\newline&space;C=2\pi&space;r&space;\newline&space;\newline&space;\frac{C}{2\pi}=\frac{2\pi&space;r}{2\pi}&space;\newline&space;\newline&space;\frac{C}{2\pi}=r" title="\newline \newline C=2\pi r \newline \newline \frac{C}{2\pi}=\frac{2\pi r}{2\pi} \newline \newline \frac{C}{2\pi}=r" /></a>
+
+Solve for `h`
+
+<h3>Rational Equations/Expressions</h3>
+<h4>aka equations leading to other equations</h4>
+
+<h3>Legend</h3>
+
+![f](https://imgur.com/joxgdq9.png)
+
+Because quadratic equations are a subset of polynomial equations, that is where the phrase *quadratic polynomial* comes from. 
+
+We must convert!
+
+Some equations are almost linear equations; after one or more steps these equations become linear equations. In this sections, we will be converting **rational expressions** (one quantity divided by another quantity) into linear expressions and **square root equations** into linear equations. 
+
+The solutions to these converted equations might not be the same as the solution(s) to the original equation. After certain operations you **must check** the solution(s) to the converted equation from the original equation. 
+
+<h3>Check for equality ===</h3>
+
+*Anytime you multiply (or divide)* both sides of the equation by an *expression/term* with a *variable in it*, you *must* check your solution(s) in the original expression. 
+
+The reason for this is sometimes a solution to the converted equation will cause a zero to be in a denominator of the original equation. Such solutions are called **extraneous solutions**. 
+
+
+We can clear using two methods:
+
+<h3>Rational Expressions (one quantity divided by another</h3>
+
+<h3>Square Root Equations</h3>
+
+When you square both sides of the equation you must also check to verify the variable is a solution to the original equation. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\sqrt{x-1}=6&space;\newline&space;(\sqrt{x-1})^2=6&space;\newline&space;x-1=36&space;\newline&space;x=37&space;\newline&space;\sqrt{37-1}=6&space;\newline&space;\sqrt{36}=6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\sqrt{x-1}=6&space;\newline&space;(\sqrt{x-1})^2=6&space;\newline&space;x-1=36&space;\newline&space;x=37&space;\newline&space;\sqrt{37-1}=6&space;\newline&space;\sqrt{36}=6" title="\newline \sqrt{x-1}=6 \newline (\sqrt{x-1})^2=6 \newline x-1=36 \newline x=37 \newline \sqrt{37-1}=6 \newline \sqrt{36}=6" /></a>
+
+As we can see here, `x=37` is a solution to the original when we plug it in
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\sqrt{37-1}=6&space;\newline&space;\sqrt{36}=6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\sqrt{37-1}=6&space;\newline&space;\sqrt{36}=6" title="\newline \sqrt{37-1}=6 \newline \sqrt{36}=6" /></a>
+
+
+<h3>2 LCD</h3>
+
+
+LCD here is `(x-2)(x+2)`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{1}{x-2}=\frac{3}{x&plus;2}-\frac{6x}{(x-2)(x&plus;2)}&space;\newline&space;\frac{1}{x-2}(x-2)(x&plus;2)=\frac{3}{x&plus;2}(x-2)(x&plus;2)-\frac{6x}{(x-2)(x&plus;2)}(x-2)(x&plus;2)&space;\newline&space;x&plus;2=3(x-2)-6x&space;\newline&space;x&plus;2=3x-6-6x&space;\newline&space;x&plus;2=-3x-6&space;\newline&space;4x&plus;2=-6&space;\newline&space;4x=-8&space;\newline&space;x=-2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{1}{x-2}=\frac{3}{x&plus;2}-\frac{6x}{(x-2)(x&plus;2)}&space;\newline&space;\frac{1}{x-2}(x-2)(x&plus;2)=\frac{3}{x&plus;2}(x-2)(x&plus;2)-\frac{6x}{(x-2)(x&plus;2)}(x-2)(x&plus;2)&space;\newline&space;x&plus;2=3(x-2)-6x&space;\newline&space;x&plus;2=3x-6-6x&space;\newline&space;x&plus;2=-3x-6&space;\newline&space;4x&plus;2=-6&space;\newline&space;4x=-8&space;\newline&space;x=-2" title="\newline \frac{1}{x-2}=\frac{3}{x+2}-\frac{6x}{(x-2)(x+2)} \newline \frac{1}{x-2}(x-2)(x+2)=\frac{3}{x+2}(x-2)(x+2)-\frac{6x}{(x-2)(x+2)}(x-2)(x+2) \newline x+2=3(x-2)-6x \newline x+2=3x-6-6x \newline x+2=-3x-6 \newline 4x+2=-6 \newline 4x=-8 \newline x=-2" /></a>
+
+We have `x=-2` since we multiplied  both sides of the equation by a term with a variable in it we must check our solution.
+
+So lets plug it in.
+
+![f](https://imgur.com/CRfBWQ4.png)
+
+**There is no solution** for this equation. Using `x=-2` produces a zero in several of the denominators of the original equation, so `x=-2` is not a solution. 
+
+<h3>Why can't you Divide by Zero</h3>
+
+Have you ever wondered why expressions like <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{0}" title="\frac{2}{0}" /></a> are not numbers? Let see what complications arise when we try to see what the answer might be.
+
+Lets set it up:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{0}=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{0}=x" title="\frac{2}{0}=x" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{0}=\frac{x}{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{0}=\frac{x}{1}" title="\frac{2}{0}=\frac{x}{1}" /></a>
+
+Now Cross multiply
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;2(1)=0(x)&space;\newline" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;2(1)=0(x)&space;\newline" title="\newline 2(1)=0(x) \newline" /></a>
+
+Multiplication by zero always yields zero, so the right hand side is zero. No value for x can make this equation true. 
+
 

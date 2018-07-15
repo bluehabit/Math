@@ -794,6 +794,8 @@ Examples:
 
 <h3> Factoring Quadratics to Reduce Fractions</h3>
 
+![f](https://imgur.com/KPFGwhr.png)
+
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;x^{10}-3x^5&plus;2=(x^5-2)(x^5-1)&space;\newline&space;\newline&space;\frac{(x^2-1)}{x&plus;1}=\frac{(x-1)(x&plus;1)}{(x&plus;1)}=x-1&space;\newline&space;\newline&space;\frac{y-x}{x^2-y^2}=\frac{y-x}{(x-y)(x&plus;y)}=\frac{-(x-y)}{(x-y)(x&plus;y)}=\frac{-1}{(x-y)(x&plus;y)}&space;\newline&space;\newline&space;\newline&space;\frac{x^2-5x&plus;6}{x^2-2x-3}=\frac{(x-3)(x-2)}{(x-3)(x&plus;1)}&space;=\frac{x-2}{x&plus;1}&space;\newline&space;\newline&space;\newline&space;\frac{3x^3-3x^2-6x}{6x^3-12x^2}&space;=\frac{3x(x^2-x-2)}{6x^2(x-2)}&space;\newline&space;=\frac{3x(x&plus;1)(x-2)}{6x^2(x-2)}&space;\newline&space;=\frac{x&plus;1}{2x}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;x^{10}-3x^5&plus;2=(x^5-2)(x^5-1)&space;\newline&space;\newline&space;\frac{(x^2-1)}{x&plus;1}=\frac{(x-1)(x&plus;1)}{(x&plus;1)}=x-1&space;\newline&space;\newline&space;\frac{y-x}{x^2-y^2}=\frac{y-x}{(x-y)(x&plus;y)}=\frac{-(x-y)}{(x-y)(x&plus;y)}=\frac{-1}{(x-y)(x&plus;y)}&space;\newline&space;\newline&space;\newline&space;\frac{x^2-5x&plus;6}{x^2-2x-3}=\frac{(x-3)(x-2)}{(x-3)(x&plus;1)}&space;=\frac{x-2}{x&plus;1}&space;\newline&space;\newline&space;\newline&space;\frac{3x^3-3x^2-6x}{6x^3-12x^2}&space;=\frac{3x(x^2-x-2)}{6x^2(x-2)}&space;\newline&space;=\frac{3x(x&plus;1)(x-2)}{6x^2(x-2)}&space;\newline&space;=\frac{x&plus;1}{2x}" title="\newline x^{10}-3x^5+2=(x^5-2)(x^5-1) \newline \newline \frac{(x^2-1)}{x+1}=\frac{(x-1)(x+1)}{(x+1)}=x-1 \newline \newline \frac{y-x}{x^2-y^2}=\frac{y-x}{(x-y)(x+y)}=\frac{-(x-y)}{(x-y)(x+y)}=\frac{-1}{(x-y)(x+y)} \newline \newline \newline \frac{x^2-5x+6}{x^2-2x-3}=\frac{(x-3)(x-2)}{(x-3)(x+1)} =\frac{x-2}{x+1} \newline \newline \newline \frac{3x^3-3x^2-6x}{6x^3-12x^2} =\frac{3x(x^2-x-2)}{6x^2(x-2)} \newline =\frac{3x(x+1)(x-2)}{6x^2(x-2)} \newline =\frac{x+1}{2x}" /></a>
 
@@ -802,6 +804,12 @@ Examples:
 ![f](https://imgur.com/aW3xp4k.png)
 
 <h3>Linear Equations</h3>
+
+**Linear equation** - highest power of variable is to ^1
+
+**Quadratic equation** - highest power of variable is to ^2. Quadratics are a subset of polynomials. 
+
+**Polynomial Equation** - highest power of variable is to x^n where n is greater than 2. 
 
 In linear equations the variables are raised to the first power - there are no variables in denominators, no variables to any power (other than one) and no variables under root signs.
 
@@ -900,6 +908,10 @@ Solve for `m`
 ![f](https://imgur.com/XN6ZjNV.png)
 ![f](https://imgur.com/ekS9IgN.png)
 
+Again, you *must* wrap *expressions* in *parenthesis*
+
+![f](https://imgur.com/G2Rrs8s.png)
+
 Very important example below:
 Solve for `b`
 
@@ -956,6 +968,10 @@ We can clear using two methods:
 
 <h3>Rational Expressions (one quantity divided by another</h3>
 
+<h3>Cross Multiply</h3>
+
+We can **cross multiply** IF! there is only one term on either side of the equation, otherwise we must use a LCD to clear it. 
+
 <h3>Square Root Equations</h3>
 
 When you square both sides of the equation you must also check to verify the variable is a solution to the original equation. 
@@ -968,6 +984,8 @@ As we can see here, `x=37` is a solution to the original when we plug it in
 
 
 <h3>2 LCD</h3>
+
+![f](https://imgur.com/kpPZIxx.png)
 
 
 LCD here is `(x-2)(x+2)`
@@ -998,4 +1016,66 @@ Now Cross multiply
 
 Multiplication by zero always yields zero, so the right hand side is zero. No value for x can make this equation true. 
 
+<h3>Quadratic Equations that convert to Linear Equations</h3>
+
+![f](https://imgur.com/SnWpUSO.png)
+
+*Some* quadratic equations can be solved like linear equations. 
+
+In these examples, because we neither multiplied (nor divided) both sides by an expression involving a variable nor raised both sides to a power, it is not necessary to check your solution. 
+
+
+Examples:
+
+Category: `quadratic to linear equation`
+Since we didn't cross multiply we do not need to check the solution here.
+
+----
+
+Category: `Quadratic to linear equation`.
+Because we cross multiplied, we must check the solution. 
+
+![f](https://imgur.com/gmoee5r.png)
+
+![f](https://imgur.com/m7Rex9c.png)
+
+----
+
+Category: `Quadratic to Linear equation`
+
+![f](https://imgur.com/PvFdYpp.png)
+
+----
+
+Category: `rational expressoin`
+
+![f](https://imgur.com/kpPZIxx.png)
+
+----
+
+Category: `rational expression` 
+
+![f](https://imgur.com/aAivG1i.png)
+
+----
+
+Category: `Square Root Equation`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\sqrt{7x&plus;1}=13&space;\newline&space;(\sqrt{7x&plus;1})^2=13^2&space;\newline&space;7x&plus;1=169&space;\newline&space;7x=1689&space;\newline&space;x=24" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\sqrt{7x&plus;1}=13&space;\newline&space;(\sqrt{7x&plus;1})^2=13^2&space;\newline&space;7x&plus;1=169&space;\newline&space;7x=1689&space;\newline&space;x=24" title="\newline \sqrt{7x+1}=13 \newline (\sqrt{7x+1})^2=13^2 \newline 7x+1=169 \newline 7x=1689 \newline x=24" /></a>
+
+----
+
+Category: `Square Root Equation`
+Note: you must *isolate* the variable before squaring both sides.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\sqrt{x}-6=10&space;\newline&space;\sqrt{x}=16&space;\newline&space;(\sqrt{x})^2=16^2&space;\newline&space;x=256" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\sqrt{x}-6=10&space;\newline&space;\sqrt{x}=16&space;\newline&space;(\sqrt{x})^2=16^2&space;\newline&space;x=256" title="\newline \sqrt{x}-6=10 \newline \sqrt{x}=16 \newline (\sqrt{x})^2=16^2 \newline x=256" /></a>
+
+----
+
+Category: `Square Root Equation`
+Note: you must *isolate* the variable before squaring both sides.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\sqrt{2x-3}&plus;1=6&space;\newline&space;\sqrt{2x-3}=5&space;\newline&space;(\sqrt{2x-3})^2=5^2&space;\newline&space;2x-3=25&space;\newline&space;2x=28&space;\newline&space;x=14" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\sqrt{2x-3}&plus;1=6&space;\newline&space;\sqrt{2x-3}=5&space;\newline&space;(\sqrt{2x-3})^2=5^2&space;\newline&space;2x-3=25&space;\newline&space;2x=28&space;\newline&space;x=14" title="\newline \sqrt{2x-3}+1=6 \newline \sqrt{2x-3}=5 \newline (\sqrt{2x-3})^2=5^2 \newline 2x-3=25 \newline 2x=28 \newline x=14" /></a>
+
+<h2>Linear Inequalities</h2>
 

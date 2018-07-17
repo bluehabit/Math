@@ -12,6 +12,14 @@ All three of the methods below: GCF, LCD, GCD all utilize *prime factorization*.
 
 <h2>Fractions</h2>
 
+<h3>Rationalizing the Denominator</h3>
+
+Rationalizing the denominator means to not have an irrational number in the denominator such as a square root. Lets look at an example below.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{7}{\sqrt{65}}&space;\newline&space;\frac{7}{\sqrt{65}}\cdot\frac{\sqrt{65}}{\sqrt{65}}&space;\newline&space;=\frac{7\sqrt{65}}{65}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{7}{\sqrt{65}}&space;\newline&space;\frac{7}{\sqrt{65}}\cdot\frac{\sqrt{65}}{\sqrt{65}}&space;\newline&space;=\frac{7\sqrt{65}}{65}" title="\newline \frac{7}{\sqrt{65}} \newline \frac{7}{\sqrt{65}}\cdot\frac{\sqrt{65}}{\sqrt{65}} \newline =\frac{7\sqrt{65}}{65}" /></a>
+
+
+
 ![f](https://imgur.com/8QQqnQl.png)
 
 <h3>Very Important!</h3>

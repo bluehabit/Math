@@ -1,6 +1,26 @@
-Created using 12pt (large) font on https://www.codecogs.com/latex/eqneditor.php also http://www.hostmath.com/
-
 <h1>Math</h1>
+
+<h2>Algebra Reminder</h2>
+
+![f](https://imgur.com/DSKr9Ax.png)
+
+![f](https://imgur.com/5X2nqTQ.png)
+
+**Reminder on Fractions**
+
+can pull numbers or variables
+from the numerator out of the 
+fraction the answer will be the same
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" title="\newline \frac{5\cdot3}{3}=== \frac{5}{3}3 === \frac{3}{3}5 \newline \newline \frac{2 \pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" /></a>
+
+<h3>Inverse Operations</h3>
+
+Addition and Subtraction are inverse operations.
+
+Division and Multiplication are inverse operations. 
+
+Each operation does the *opposite* of its inverse.
 
 <h3>Negative Numbers</h3>
 

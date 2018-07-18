@@ -1,10 +1,104 @@
+<h2>Quick algebra reminder</h2>
+
+![f](https://imgur.com/DSKr9Ax.png)
+
+![f](https://imgur.com/5X2nqTQ.png)
+
+**Reminder on Fractions**
+
+can pull numbers or variables
+from the numerator out of the 
+fraction the answer will be the same
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" title="\newline \frac{5\cdot3}{3}=== \frac{5}{3}3 === \frac{3}{3}5 \newline \newline \frac{2 \pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" /></a>
+
+<h2>Complementary and Supplementary Angles</h2>
+
+`90deg` will take you 1/4 of the way around a circle. `180` deg will take you half way across. `270` deg will take you 3/4 through. A full circle is `360`. 
+
+<h3>Complimentary</h3>
+If the sum of two angles = `90` they are complimentary. If the two complimentary angles happen to be `adjacent` they then form a right angle. 
+
+When you have a `right angle` the two outside line segments or rays are considered to be perpendicular. 
+
+![f](https://imgur.com/4UTtIPw.png)
+
+![f](https://imgur.com/DH7Ke81.png)
+
+Good overview on Subject: https://www.youtube.com/watch?v=BTnAlNSgNsY
+
+
+<h3>Supplementary</h3>
+If the sum of the two angles = `180` they are supplementary. If these two angles are adjacent they form a `straight angle`/line. 
+
+<h3>Interior and Outside Angles</h3>
+
+Can think of an *angle* as a wedge, like a piece of pie. Each side of an angle is bounded by a *ray*, which is a line that is infinity long in one direction with an end point on the other end. 
+
+![f](https://imgur.com/HpTaKZb.png) 
+
+<h3>Acute Angle</h3>
+
+When the measure of a angle, usually referred to as theta <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta" title="\Theta" /></a> is greater than `0` but less than `90` then it forms an *acute angle*
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=0&space;<&space;\Theta&space;<&space;90" target="_blank"><img src="https://latex.codecogs.com/gif.latex?0&space;<&space;\Theta&space;<&space;90" title="0 < \Theta < 90" /></a>
+
+
+<h3>Obtuse Angle</h3>
+
+When the measure of the angle is greater than `90` but less than `180` we call it an *obtuse angle*.
+
+ <a href="https://www.codecogs.com/eqnedit.php?latex=90&space;<&space;\Theta&space;<180" target="_blank"><img src="https://latex.codecogs.com/gif.latex?90&space;<&space;\Theta&space;<180" title="90 < \Theta <180" /></a>
+
+<h3>Straight Angle</h3>
+If the sum of the two angles = `180` they are supplementary. If these two angles are adjacent they form a `straight angle`/line. 
+
+<h3>Angles in Radians Instead of Degrees</h3>
+
+We can also express angles in radians instead of degrees. As we go further in math, we will actually more commonly use radians. 
+
+We label radians as such:
+
+`0.456 radians`, `.456` rad or just `0.456`.
+
+<h3>Degrees to Radians Chart</h3>
+
+![f](https://imgur.com/7ClehNT.png)
+
+Example:
+
+Find the complimentary angle to `37` in degrees.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\Theta&space;&plus;&space;37^{\circ}=90^{\circ}&space;\newline&space;\Theta&space;=&space;90&space;-37&space;\newline&space;\Theta&space;=&space;53^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\Theta&space;&plus;&space;37^{\circ}=90^{\circ}&space;\newline&space;\Theta&space;=&space;90&space;-37&space;\newline&space;\Theta&space;=&space;53^{\circ}" title="\newline \Theta + 37^{\circ}=90^{\circ} \newline \Theta = 90 -37 \newline \Theta = 53^{\circ}" /></a>
+
+Another Example:
+
+Find **complimentary** angles in radians. For example the angle that's complementary to <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{6}" title="\frac{\pi}{6}" /></a>
+
+Because it says **complimentary** we know 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\frac{\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\frac{\pi}{6}" title="\large \frac{\pi}{6}" /></a> + <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta" title="\Theta" /></a> will add up to <a href="https://www.codecogs.com/eqnedit.php?latex=90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?90^{\circ}" title="90^{\circ}" /></a> so we can set up our linear equation as such. Only we are solving for radians not degrees. And the 90deg equivalent in radians is <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{2}" title="\frac{\pi}{2}" /></a> see chart above for conversion.
+
+Note: in example below `12` is the LCD. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{\pi}{6}&plus;\Theta&space;=&space;\frac{\pi}{2}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{2}-\frac{\pi}{6}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{6\pi}{12}-\frac{2\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{4\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{\pi}{6}&plus;\Theta&space;=&space;\frac{\pi}{2}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{2}-\frac{\pi}{6}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{6\pi}{12}-\frac{2\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{4\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{3}" title="\newline \frac{\pi}{6}+\Theta = \frac{\pi}{2} \newline \newline \Theta = \frac{\pi}{2}-\frac{\pi}{6} \newline \newline \Theta = \frac{6\pi}{12}-\frac{2\pi}{12} \newline \newline \Theta = \frac{4\pi}{12} \newline \newline \Theta = \frac{\pi}{3}" /></a>
+
+
+
+
+**Important Radian Angles**
+
+1. A full circle is always <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta&space;=&space;2\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta&space;=&space;2\pi" title="\Theta = 2\pi" /></a> or <a href="https://www.codecogs.com/eqnedit.php?latex=360^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?360^{\circ}" title="360^{\circ}" /></a>
+2. When the sides of the angle overlap (just like with rays or line segments and degrees) then the angle measure is <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta&space;=&space;0" title="\Theta = 0" /></a>
+3. When you take exactly one quarter of the circle, the sides of the angle are perpendicular, and the angle is <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta&space;=&space;\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta&space;=&space;\frac{\pi}{2}" title="\Theta = \frac{\pi}{2}" /></a>
+4. When you take exactly half the circle, the sides of the angle form a straight line, and that angle is <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta&space;=&space;\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta&space;=&space;\pi" title="\Theta = \pi" /></a>
+5. Acute angles are angles with <a href="https://www.codecogs.com/eqnedit.php?latex=0&space;<&space;\Theta&space;<&space;\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?0&space;<&space;\Theta&space;<&space;\frac{\pi}{2}" title="0 < \Theta < \frac{\pi}{2}" /></a> this is the equivalent of <a href="https://www.codecogs.com/eqnedit.php?latex=0&space;<&space;\Theta&space;<&space;90" target="_blank"><img src="https://latex.codecogs.com/gif.latex?0&space;<&space;\Theta&space;<&space;90" title="0 < \Theta < 90" /></a> in degrees
+6. Obtuse angles are angles with <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{2}<\Theta<n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{2}<\Theta<n" title="\frac{\pi}{2}<\Theta<n" /></a> which is the equivalent of <a href="https://www.codecogs.com/eqnedit.php?latex=90&space;<&space;\Theta&space;<180" target="_blank"><img src="https://latex.codecogs.com/gif.latex?90&space;<&space;\Theta&space;<180" title="90 < \Theta <180" /></a> in degrees
+
 <h2>Trigonometry</h2>
 
 The *ratio* of sides of triangles. *Tri* literally means triangle, *metry* literally means measure. 
 
 *Hypotenuse* only have this on *right* triangles, and also the longest side of a right triangle. 
-
-
 
 <h2>Pythagorean Theorem</h2>
 
@@ -48,6 +142,7 @@ Sin, Cos, Tan - for any angle in this triangle it will specify the ratio.
 ![f](https://imgur.com/OUgJEAV.png)
 
 <h3>Solving for a side in right triangles with trigonometry</h3>
+<h4>aka solving for a SIDE</h4>
 
 <h3>first set up calculator</h3>
 
@@ -73,6 +168,10 @@ If you set it up correctly this should be the output.
 How do we get a?
 
 <h3>relative to your angle, label triangle</h3>
+
+Here is a helpful way to write out the trig ratios relative to a given angle. 
+
+![f](https://imgur.com/7uCo3Fd.png)
 
 ![f](https://imgur.com/82pZqUf.png)
 
@@ -192,7 +291,7 @@ Another example:
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;tan(20)&space;=&space;\frac{4}{x}&space;\newline&space;x\cdot&space;tan(20)&space;=&space;\frac{4}{x}\cdot&space;x&space;\newline&space;\frac{x\cdot&space;tan(20)}{tan(20)}=\frac{4}{tan(20)}&space;\newline&space;x&space;\approx&space;10.99" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;tan(20)&space;=&space;\frac{4}{x}&space;\newline&space;x\cdot&space;tan(20)&space;=&space;\frac{4}{x}\cdot&space;x&space;\newline&space;\frac{x\cdot&space;tan(20)}{tan(20)}=\frac{4}{tan(20)}&space;\newline&space;x&space;\approx&space;10.99" title="\newline tan(20) = \frac{4}{x} \newline x\cdot tan(20) = \frac{4}{x}\cdot x \newline \frac{x\cdot tan(20)}{tan(20)}=\frac{4}{tan(20)} \newline x \approx 10.99" /></a>
 
 
-<h2> Inverse Trig Functions</h2>
+<h2> Inverse Trig Functions AKA Solving for ANGLES</h2>
 
 Cos, Sine, Tangent given an *angle in degrees* give us **side ratios** in other words a distance, how large is line AB etc. Just like the example below we are familiar with:
 
@@ -203,3 +302,86 @@ However, what happens if we are provided the lengths - but need to calculate the
 Example:
 
 ![f](https://imgur.com/IbhnCRp.png)
+
+We are already familiar with *inverse* operations. For example addition/subtraction or multiplication/division are inverse operations because they do the opposite of its inverse.
+
+The idea is the same in trigonometry. Inverse trig functions do the opposite of "regular" trig functions.
+
+For example
+
+- inverse sine (sin^-1) does the opposite of sine
+- inverse cosine (cos^-1) does opposite of cosine 
+- inverse tangent (tan^-1) does the opposite of tangent
+
+In general, if you know the trig ratio but not the angle, you can use the corresponding inverse trig function to find the angle. This is expressed mathematically in the statements below. 
+
+![f](https://imgur.com/ndVjILB.png)
+
+Example:
+
+![f](https://imgur.com/aOeRZ5Y.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;m&space;\angle&space;L&space;=&space;tan^{-1}\frac{35}{65}&space;\newline&space;m&space;\angle&space;L&space;\approx&space;28.30" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;m&space;\angle&space;L&space;=&space;tan^{-1}\frac{35}{65}&space;\newline&space;m&space;\angle&space;L&space;\approx&space;28.30" title="\newline m \angle L = tan^{-1}\frac{35}{65} \newline m \angle L \approx 28.30" /></a>
+
+Another Example:
+
+![f](https://imgur.com/FcHlWPr.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\angle&space;A=Sin^{-1}\Big(\frac{2}{6}\Big)&space;\newline&space;\angle&space;A&space;\approx&space;19.47" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\angle&space;A=Sin^{-1}\Big(\frac{2}{6}\Big)&space;\newline&space;\angle&space;A&space;\approx&space;19.47" title="\newline \angle A=Sin^{-1}\Big(\frac{2}{6}\Big) \newline \angle A \approx 19.47" /></a>
+ 
+
+Another Example:
+
+![f](https://imgur.com/N1hfFOL.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;m&space;\angle&space;I&space;=&space;Sin^{-1}\Big(\frac{8}{10}\Big)&space;\newline&space;m&space;\angle&space;I&space;\approx&space;53.13" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;m&space;\angle&space;I&space;=&space;Sin^{-1}\Big(\frac{8}{10}\Big)&space;\newline&space;m&space;\angle&space;I&space;\approx&space;53.13" title="\newline m \angle I = Sin^{-1}\Big(\frac{8}{10}\Big) \newline m \angle I \approx 53.13" /></a>
+
+Another Example:
+
+![f](https://imgur.com/ciF0d4B.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;m\angle&space;E&space;=&space;tan^{-1}\Big(\frac{4}{6}\Big)&space;\newline&space;m\angle&space;E&space;\approx&space;33.69" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;m\angle&space;E&space;=&space;tan^{-1}\Big(\frac{4}{6}\Big)&space;\newline&space;m\angle&space;E&space;\approx&space;33.69" title="\newline m\angle E = tan^{-1}\Big(\frac{4}{6}\Big) \newline m\angle E \approx 33.69" /></a>
+
+
+<h3>Right Triangle: Angles of Elevation and Depression</h3>
+
+When you see an object above you, there's an **angle of elevation** between the horizontal line of the ground and the line of sight to the object.
+
+![f](https://imgur.com/U1yd22H.png)
+
+Similarly, when you see an object below you, there's an **angle of depression* between the horizontal line of the ground and line of sight to the object.
+
+![f](https://imgur.com/HjjZIdk.png)
+
+Example Problem:
+
+The image below is a model of Aya, point A, looking up to Super Girl, point S, in the sky.
+
+![f](https://imgur.com/jhShRDF.png)
+
+*Question 1* What is the angle of elevation from Aya to Super Girl?Note it is just asking for the ANGLE here.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\angle&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\angle&space;1" title="\angle 1" /></a>
+
+*Question 2* What is the angle of depression from Super Girl to Aya? Note it is just asking for the ANGLE here.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\angle&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\angle&space;3" title="\angle 3" /></a>
+
+
+Angles of Elevation and Depression Word Problem:
+
+An alien is at the top of the Eiffel Tower, and their is an FBI agent on the ground aiming up at him. What angle does the FBI agent need to aim at to hit the alien.
+
+![f](https://imgur.com/AbBocGQ.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;tan^{-1}\Big(\frac{324}{54}\Big)&space;\newline&space;\approx&space;80.53" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;tan^{-1}\Big(\frac{324}{54}\Big)&space;\newline&space;\approx&space;80.53" title="\newline tan^{-1}\Big(\frac{324}{54}\Big) \newline \approx 80.53" /></a>
+
+
+<h2>Similar Triangles and Trig Ratios</h2>
+
+**Congruent** in relation to sides, it means they have same length. Congruent angles have the same measure. 
+
+![f](https://imgur.com/uZG5Dq4.png)
+
+In a right triangle, one angle will already provided for us and that is `90deg`. The other 2 angles must also add up to `90deg` this is because all triangles angles add up to `180deg` in total.
+

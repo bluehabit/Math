@@ -8,11 +8,26 @@
 
 **Reminder on Fractions**
 
+<h2>Converting Mixed Numbers</h2>
+
+![f](https://imgur.com/4eNt7Nl.png)
+
+Reminder: when you are dealing with fractions if you want to go over 100% of a unit, then it becomes a mixed number. Like the examples shown below.
+
+If you go 1.5x over a unit or 150% its 1 + 1/2 which is written as 3/2 as a fraction.
+
+If you go 1.66x over a unit or 166% its 1 + 2/3 which is written as 5/3 as a fraction.
+
+----
+
+
 can pull numbers or variables
 from the numerator out of the 
 fraction the answer will be the same
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" title="\newline \frac{5\cdot3}{3}=== \frac{5}{3}3 === \frac{3}{3}5 \newline \newline \frac{2 \pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{3}===\frac{1}{3}\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{3}===\frac{1}{3}\pi" title="\frac{\pi}{3}===\frac{1}{3}\pi" /></a>
 
 <h3>Inverse Operations</h3>
 

@@ -1,5 +1,7 @@
 <h2>Quick algebra reminder</h2>
 
+<a href="https://arachnoid.com/latex/?equ=%5Cfrac%7B8%7D%7B5%7D"/></a>
+
 ![f](https://imgur.com/DSKr9Ax.png)
 
 ![f](https://imgur.com/5X2nqTQ.png)
@@ -11,6 +13,15 @@ from the numerator out of the
 fraction the answer will be the same
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{5\cdot3}{3}===&space;\frac{5}{3}3&space;===&space;\frac{3}{3}5&space;\newline&space;\newline&space;\frac{2&space;\pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" title="\newline \frac{5\cdot3}{3}=== \frac{5}{3}3 === \frac{3}{3}5 \newline \newline \frac{2 \pi}{3}===\frac{2}{3}\pi===\frac{\pi}{3}2" /></a>
+
+Another Example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{3}===\frac{1}{3}\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{3}===\frac{1}{3}\pi" title="\frac{\pi}{3}===\frac{1}{3}\pi" /></a>
+
+<h2>Converting between Radians and Degrees</h2>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" title="\newline radians \cdot \frac{180^{\circ}}{\pi}=degrees \newline \newline degrees \cdot \frac{pi}{180^{\circ}}=radians" /></a>
+
 
 <h2>Complementary and Supplementary Angles</h2>
 
@@ -63,7 +74,7 @@ We label radians as such:
 
 <h3>Degrees to Radians Chart</h3>
 
-![f](https://imgur.com/7ClehNT.png)
+![f](https://imgur.com/COWf6tc.png)
 
 Example:
 
@@ -83,6 +94,24 @@ Note: in example below `12` is the LCD.
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{\pi}{6}&plus;\Theta&space;=&space;\frac{\pi}{2}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{2}-\frac{\pi}{6}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{6\pi}{12}-\frac{2\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{4\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{\pi}{6}&plus;\Theta&space;=&space;\frac{\pi}{2}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{2}-\frac{\pi}{6}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{6\pi}{12}-\frac{2\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{4\pi}{12}&space;\newline&space;\newline&space;\Theta&space;=&space;\frac{\pi}{3}" title="\newline \frac{\pi}{6}+\Theta = \frac{\pi}{2} \newline \newline \Theta = \frac{\pi}{2}-\frac{\pi}{6} \newline \newline \Theta = \frac{6\pi}{12}-\frac{2\pi}{12} \newline \newline \Theta = \frac{4\pi}{12} \newline \newline \Theta = \frac{\pi}{3}" /></a>
 
 
+Find the angle <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta" title="\Theta" /></a> thats twice the **supplement** to <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{3}" title="\frac{\pi}{3}" /></a>
+
+With the keyword supplement we know that the sum must equal to `180` deg. The `180` degree equivalent in radians is <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a>
+
+We can model the equation like this. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a&space;=&space;\pi&space;-&space;\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a&space;=&space;\pi&space;-&space;\frac{\pi}{3}" title="a = \pi - \frac{\pi}{3}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a&space;=&space;180^{\circ}&space;-&space;\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a&space;=&space;180^{\circ}&space;-&space;\frac{\pi}{3}" title="a = 180^{\circ} - \frac{\pi}{3}" /></a>
+
+Think of it like this. Since they are supplementary they must add up to `180deg`. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;a&space;=&space;\pi&space;-&space;\frac{\pi}{3}&space;\newline&space;\newline&space;a&space;=&space;\frac{\pi}{1}-\frac{\pi}{3}&space;\newline&space;\newline&space;a&space;=&space;\frac{3\pi}{3}-\frac{\pi}{3}&space;\newline&space;\newline&space;a&space;=&space;\frac{2}{3}\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;a&space;=&space;\pi&space;-&space;\frac{\pi}{3}&space;\newline&space;\newline&space;a&space;=&space;\frac{\pi}{1}-\frac{\pi}{3}&space;\newline&space;\newline&space;a&space;=&space;\frac{3\pi}{3}-\frac{\pi}{3}&space;\newline&space;\newline&space;a&space;=&space;\frac{2}{3}\pi" title="\newline a = \pi - \frac{\pi}{3} \newline \newline a = \frac{\pi}{1}-\frac{\pi}{3} \newline \newline a = \frac{3\pi}{3}-\frac{\pi}{3} \newline \newline a = \frac{2}{3}\pi" /></a>
+
+Remember we were asked to find the angle that is *twice* as big as `a` so we will multiply by 2.
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\theta&space;=&space;2a&space;\newline&space;\theta&space;=&space;2\Big(\frac{2}{3}\Big)\pi&space;\newline&space;\theta&space;=&space;\frac{4\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\theta&space;=&space;2a&space;\newline&space;\theta&space;=&space;2\Big(\frac{2}{3}\Big)\pi&space;\newline&space;\theta&space;=&space;\frac{4\pi}{3}" title="\newline \theta = 2a \newline \theta = 2\Big(\frac{2}{3}\Big)\pi \newline \theta = \frac{4\pi}{3}" /></a>
 
 
 **Important Radian Angles**
@@ -93,6 +122,38 @@ Note: in example below `12` is the LCD.
 4. When you take exactly half the circle, the sides of the angle form a straight line, and that angle is <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta&space;=&space;\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta&space;=&space;\pi" title="\Theta = \pi" /></a>
 5. Acute angles are angles with <a href="https://www.codecogs.com/eqnedit.php?latex=0&space;<&space;\Theta&space;<&space;\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?0&space;<&space;\Theta&space;<&space;\frac{\pi}{2}" title="0 < \Theta < \frac{\pi}{2}" /></a> this is the equivalent of <a href="https://www.codecogs.com/eqnedit.php?latex=0&space;<&space;\Theta&space;<&space;90" target="_blank"><img src="https://latex.codecogs.com/gif.latex?0&space;<&space;\Theta&space;<&space;90" title="0 < \Theta < 90" /></a> in degrees
 6. Obtuse angles are angles with <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{2}<\Theta<n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{2}<\Theta<n" title="\frac{\pi}{2}<\Theta<n" /></a> which is the equivalent of <a href="https://www.codecogs.com/eqnedit.php?latex=90&space;<&space;\Theta&space;<180" target="_blank"><img src="https://latex.codecogs.com/gif.latex?90&space;<&space;\Theta&space;<180" title="90 < \Theta <180" /></a> in degrees
+
+<h2>Complimentary and Supplementary Practice Problems</h2>
+
+Given <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{6}" title="\frac{\pi}{6}" /></a> find both the complimentary and supplementary angles.
+
+<h3>Complimentary (add up to 90 deg):</h3>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;a&space;=&space;\frac{\pi}{2}-\frac{\pi}{6}&space;\newline&space;\newline&space;a&space;=&space;\frac{\pi}{2}\Big(\frac{3}{3}\Big)-\frac{\pi}{6}&space;\newline&space;\newline&space;a=\frac{3\pi}{6}-\frac{\pi}{6}&space;\newline&space;\newline&space;a&space;=&space;\frac{2\pi}{6}&space;\newline&space;\newline&space;a=\frac{\pi}{3}&space;\newline&space;\newline&space;\newline&space;\frac{\pi}{6}&plus;\frac{\pi}{3}=\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;a&space;=&space;\frac{\pi}{2}-\frac{\pi}{6}&space;\newline&space;\newline&space;a&space;=&space;\frac{\pi}{2}\Big(\frac{3}{3}\Big)-\frac{\pi}{6}&space;\newline&space;\newline&space;a=\frac{3\pi}{6}-\frac{\pi}{6}&space;\newline&space;\newline&space;a&space;=&space;\frac{2\pi}{6}&space;\newline&space;\newline&space;a=\frac{\pi}{3}&space;\newline&space;\newline&space;\newline&space;\frac{\pi}{6}&plus;\frac{\pi}{3}=\frac{\pi}{2}" title="\newline a = \frac{\pi}{2}-\frac{\pi}{6} \newline \newline a = \frac{\pi}{2}\Big(\frac{3}{3}\Big)-\frac{\pi}{6} \newline \newline a=\frac{3\pi}{6}-\frac{\pi}{6} \newline \newline a = \frac{2\pi}{6} \newline \newline a=\frac{\pi}{3} \newline \newline \newline \frac{\pi}{6}+\frac{\pi}{3}=\frac{\pi}{2}" /></a>
+
+Keep in mind when you see <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{6}&plus;\frac{\pi}{3}=\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{6}&plus;\frac{\pi}{3}=\frac{\pi}{2}" title="\frac{\pi}{6}+\frac{\pi}{3}=\frac{\pi}{2}" /></a> you can read <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{2}" title="\frac{\pi}{2}" /></a> that is  the radian equivalent to <a href="https://www.codecogs.com/eqnedit.php?latex=90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?90^{\circ}" title="90^{\circ}" /></a>
+
+To answer the original question <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{3}" title="\frac{\pi}{3}" /></a> is the *complimentary* angle to the original questions <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{6}" title="\frac{\pi}{6}" /></a> and when added together will produce <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{2}" title="\frac{\pi}{2}" /></a> or `90deg`. 
+
+
+<h3>Supplementary (add up to 180 deg):</h3> 
+
+Find the supplementary angle to <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{6}" title="\frac{\pi}{6}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;a&space;=&space;\pi&space;-&space;\frac{\pi}{6}&space;\newline&space;a=\frac{\pi}{1}\Big(\frac{6}{6}\Big)-\frac{\pi}{6}&space;\newline&space;a=\frac{6\pi-\pi}{6}&space;\newline&space;a&space;=&space;\frac{5\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;a&space;=&space;\pi&space;-&space;\frac{\pi}{6}&space;\newline&space;a=\frac{\pi}{1}\Big(\frac{6}{6}\Big)-\frac{\pi}{6}&space;\newline&space;a=\frac{6\pi-\pi}{6}&space;\newline&space;a&space;=&space;\frac{5\pi}{6}" title="\newline a = \pi - \frac{\pi}{6} \newline a=\frac{\pi}{1}\Big(\frac{6}{6}\Big)-\frac{\pi}{6} \newline a=\frac{6\pi-\pi}{6} \newline a = \frac{5\pi}{6}" /></a>
+
+Similar story here when we solve for it we get <a href="https://www.codecogs.com/eqnedit.php?latex=a=\frac{5\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a=\frac{5\pi}{6}" title="a=\frac{5\pi}{6}" /></a> so we know when we add that to the original question of <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{6}" title="\frac{\pi}{6}" /></a> since they are supplementary angles they will equal `180deg` or <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> in radians. 
+
+More Examples:
+
+![f](https://imgur.com/e4bfYP0.png)
+
+----
+
+![f](https://imgur.com/4GHrZ92.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;a&space;=&space;180^{\circ}-87^{\circ}&space;\newline&space;a&space;=&space;93^{\circ}&space;\newline&space;\newline&space;\theta&space;=&space;a\frac{1}{3}&space;\newline&space;\theta&space;=&space;93\Big(\frac{1}{3}\Big)&space;\newline&space;\theta&space;=&space;31" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;a&space;=&space;180^{\circ}-87^{\circ}&space;\newline&space;a&space;=&space;93^{\circ}&space;\newline&space;\newline&space;\theta&space;=&space;a\frac{1}{3}&space;\newline&space;\theta&space;=&space;93\Big(\frac{1}{3}\Big)&space;\newline&space;\theta&space;=&space;31" title="\newline a = 180^{\circ}-87^{\circ} \newline a = 93^{\circ} \newline \newline \theta = a\frac{1}{3} \newline \theta = 93\Big(\frac{1}{3}\Big) \newline \theta = 31" /></a>
+
 
 <h2>Trigonometry</h2>
 
@@ -384,4 +445,21 @@ An alien is at the top of the Eiffel Tower, and their is an FBI agent on the gro
 ![f](https://imgur.com/uZG5Dq4.png)
 
 In a right triangle, one angle will already provided for us and that is `90deg`. The other 2 angles must also add up to `90deg` this is because all triangles angles add up to `180deg` in total.
+
+<h2>Sketching Angles in Standard Position</h2>
+
+In the below example, you can see we can read <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{3}" title="\frac{\pi}{3}" /></a> simply as 1/3 pi. Or <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{2}" title="\frac{\pi}{2}" /></a> as 1/2 pi. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{\pi}{3}&space;===&space;\frac{1}{3}\pi&space;\newline&space;\newline&space;\frac{\pi}{2}&space;===&space;\frac{1}{2}\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{\pi}{3}&space;===&space;\frac{1}{3}\pi&space;\newline&space;\newline&space;\frac{\pi}{2}&space;===&space;\frac{1}{2}\pi" title="\newline \frac{\pi}{3} === \frac{1}{3}\pi \newline \newline \frac{\pi}{2} === \frac{1}{2}\pi" /></a>
+
+Remember with fractions, as the denominator grows - the smaller the number becomes. For example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{1}{2}&space;=&space;.5&space;\newline&space;\newline&space;\frac{1}{3}&space;=&space;.3333&space;\newline&space;\newline&space;\frac{1}{4}&space;=&space;.25&space;\newline&space;\newline&space;\frac{1}{5}&space;=&space;.2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{1}{2}&space;=&space;.5&space;\newline&space;\newline&space;\frac{1}{3}&space;=&space;.3333&space;\newline&space;\newline&space;\frac{1}{4}&space;=&space;.25&space;\newline&space;\newline&space;\frac{1}{5}&space;=&space;.2" title="\newline \frac{1}{2} = .5 \newline \newline \frac{1}{3} = .3333 \newline \newline \frac{1}{4} = .25 \newline \newline \frac{1}{5} = .2" /></a>
+
+Same thing we are dealing in terms of <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> radians
+
+<h3>Guidelines</h3>
+
+![f](https://imgur.com/Xj9407P.png)
+
 

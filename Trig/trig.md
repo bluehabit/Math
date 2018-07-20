@@ -460,6 +460,26 @@ Same thing we are dealing in terms of <a href="https://www.codecogs.com/eqnedit.
 
 <h3>Guidelines</h3>
 
-![f](https://imgur.com/Xj9407P.png)
+![f](https://imgur.com/w3ilG96.png)
 
+Can read this as follows `1.3333333333` becomes `1` (one whole unit) and `33%` or `1/3`.
 
+`3/2` becomes `1` (one whole unit) and `50%` or `1/2`.
+
+`5/3` becomes `1.6666666667` or `1` (one whole unit) and `66%` or `2/3`. 
+
+`8/3` becomes `2.666666667` or `2` (2 whole units) and `66%` or `2/3`.
+
+Remember with fractions, if the number is a decimal with no whole number than it will always be less than 100% of that unit. For example 2/3, 5/10, 99/106 are all going to be a decimal.
+
+While 5/3, 9/5, 18/12 will all be greater than 100% of that unit. 
+
+![f](https://imgur.com/nob7UYI.png)
+
+<h3>Sketching Negative Numbers in Standard Position</h3>
+
+When you have a negative number, the chart becomes inverted. Take a look.
+
+![f](https://imgur.com/kQigBhE.png)
+
+![f](https://imgur.com/SA8BJUX.png)

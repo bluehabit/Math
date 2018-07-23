@@ -1,3 +1,16 @@
+<h3>Fractions Reminder</h3>
+
+Whenever you see a fraction, the denominator will dictate what its in for example:
+
+`15/4` is in `4ths`
+`pi/8` is in `8ths`
+`-5/3` is in `3rds`
+`4/6` is in `6ths`
+
+<h2>Factoring Reminder</h2>
+
+![f](https://imgur.com/YgaXFKm.png)
+
 <h2>Identifying if Angle is in Radians or Degrees</h2>
 
 If an angle has the degrees symbol, then it is in degrees. If it has nothing it is in radians.
@@ -32,7 +45,17 @@ Can find the angle of `theta` by:
 
 ![f](https://imgur.com/vcIJ7Mz.png)
 
+![f](https://imgur.com/es7fith.png)
+
 This gives you the *angle expressed in radians*!
+
+Example:
+
+![f](https://imgur.com/Y65Lmhe.png)
+
+Another Example:
+
+![f](https://imgur.com/MB4cugI.png)
 
 
 
@@ -73,8 +96,64 @@ Another Example:
 
 <h2>Converting between Radians and Degrees</h2>
 
+<h3>Convert Degrees to Radians</h3>
+
+Legend: 
+
+Instead of providing a "formula" here is the logic for the unit conversion from degrees to radians. 
+
+<h4>Reminder on Factoring</h4>
+
+"un" distributing. To simplify fractions.
+
+![f](https://imgur.com/GfeIiGD.png)
+
+![f](https://imgur.com/Zer0rer.png)
+
+If you want to be lazy and not factor can just plug it into your calculator to get the fraction portion, and then just add back the units like `pi` or whatever.
+
+![f](https://imgur.com/O9PA9w3.png)
+
+Examples:
+
+![f](https://imgur.com/FqjFR1L.png)
+
+![f](https://imgur.com/jXzmy9U.png)
+
+![f](https://imgur.com/DjEEnOF.png)
+
+![f](https://imgur.com/jrKFbXK.png)
+
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" title="\newline radians \cdot \frac{180^{\circ}}{\pi}=degrees \newline \newline degrees \cdot \frac{pi}{180^{\circ}}=radians" /></a>
 
+<h3>Sketching Angles in Standard Position</h3>
+
+![f](https://imgur.com/GfeIiGD.png)
+
+Its usually easier to sketch in terms of degrees instead of radians.
+
+Use the unit conversion that we have been using above for the logic. 
+
+![f](https://imgur.com/yjtt7py.png)
+
+![f](https://imgur.com/hqp1lcc.png)
+
+![f](https://imgur.com/7A5wZ8u.png)
+
+<h2>Drawing Common Angles in Radians</h2>
+
+These common angles in radians will be important later because they are used quite a bit in the `unit circle`.
+
+You won't see these fractions, because they can be reduced.
+
+![f](https://imgur.com/47b1Fx5.png)
+
+![f](https://imgur.com/1SIGu7Q.png)
+
+![f](https://imgur.com/Fp1N9S6.png)
+
+![f](https://imgur.com/rzPKAEL.png)
 
 <h2>Complementary and Supplementary Angles</h2>
 
@@ -606,6 +685,10 @@ Conversion Examples:
 
 
 <h2>Quadrant of the Angle</h2>
+
+<h3>X, Y Quadrant Pairings: Positive Value</h3>
+
+![f](https://imgur.com/a547Nyj.png)
 
 ![f](https://imgur.com/7gdqQI5.png)
 

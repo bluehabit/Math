@@ -1,3 +1,56 @@
+<h2>Identifying if Angle is in Radians or Degrees</h2>
+
+If an angle has the degrees symbol, then it is in degrees. If it has nothing it is in radians.
+
+![f](https://imgur.com/aTSXBFs.png)
+
+<h2>What is a Radian</h2>
+
+`arc length === radius`
+
+**Radius**
+
+![f](https://imgur.com/GpCbNWc.png)
+
+**Arc Length**
+
+The length of the radius can be expressed as an arc. This arc, called `arc length` is the same as `r`. `Arc length` is often expressed as the variable `S`. 
+
+![f](https://imgur.com/HM2GHau.png)
+
+**Radian**
+
+If we connect arc length to the center, that line we just put down is also the radius. 
+
+![f](https://imgur.com/I9BB5Pm.png)
+
+The angle that forms as a result of connecting the radius, the arc length, and the new line we just put down (also the radius) forms a **radian**. 
+
+A radian is basically a wedge shape slice of circle thats equivalent to the  **radius** on all sides.
+
+Can find the angle of `theta` by:
+
+![f](https://imgur.com/vcIJ7Mz.png)
+
+This gives you the *angle expressed in radians*!
+
+
+
+<h2>Unit Conversions</h2>
+
+
+![f](https://imgur.com/AQEJAGE.png)
+
+![f](https://imgur.com/habRQgm.png)
+
+![f](https://imgur.com/c8ZddFp.png)
+
+![f](https://imgur.com/41Wqjqt.png)
+
+![f](https://imgur.com/SWoT92U.png)
+
+![f](https://imgur.com/6R3kVGa.png)
+
 <h2>Quick algebra reminder</h2>
 
 <a href="https://arachnoid.com/latex/?equ=%5Cfrac%7B8%7D%7B5%7D"/></a>
@@ -483,3 +536,84 @@ When you have a negative number, the chart becomes inverted. Take a look.
 ![f](https://imgur.com/kQigBhE.png)
 
 ![f](https://imgur.com/SA8BJUX.png)
+
+More Examples:
+
+![f](https://imgur.com/HUCHjpF.png)
+
+<h3> Reviewing Improper/Proper Fractions</h3>
+
+![f](https://imgur.com/BKRyweY.png)
+
+<h3>Improper Fraction</h3>
+
+When the numerator is larger than the denominator.  
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{8}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{8}{2}" title="\frac{8}{2}" /></a>
+
+
+<h3>Proper Fraction</h3>
+
+When the numerator is smaller than the denominator. When a numerator is less than the denominator it will always produce a decimal. Meaning the value of the fraction is less than `1`. To reach `1` or `100%` you must meet or exceed the denominator.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{8}" title="\frac{2}{8}" /></a>
+
+<h2>Converting Mixed Numbers</h2>
+
+![f](https://imgur.com/4eNt7Nl.png)
+
+Reminder: when you are dealing with fractions if you want to go over 100% of a unit, then it becomes a mixed number. Like the examples shown below.
+
+If you go 1.5x over a unit or 150% its 1 + 1/2 which is written as 3/2 as a fraction.
+
+If you go 1.66x over a unit or 166% its 1 + 2/3 which is written as 5/3 as a fraction.
+
+Remember with fractions, if the number is a decimal with no whole number than it will always be less than 100% of that unit. For example 2/3, 5/10, 99/106 are all going to be a decimal.
+
+While 5/3, 9/5, 18/12 will all be greater than 100% of that unit. 
+
+<h2>Converting Improper Fractions to Mixed Numbers</h2>
+
+![f](https://imgur.com/cjlrew5.png)
+
+Its useful to convert an improper fraction to a mixed number because it allows us to see how many units we have. In the image above, we can see we have 6 whole units and 3/5 of the next unit. The units in this case are radians. 
+
+More Examples:
+
+![f](https://imgur.com/ZKjYPMV.png)
+
+![f](https://imgur.com/SPCr5mL.png)
+
+<h2>Degrees Minutes Seconds</h2>
+
+We can express angles in degrees or in radians, but we can also express them in DMS or degrees, minutes, seconds.
+
+Despite the words "minutes" and "seconds" this has nothing to do with a measure of time, other than there are 60 seconds in a minute, and 60 minutes in a degree.
+
+![f](https://imgur.com/w38sWlq.png)
+
+![f](https://imgur.com/0mAlxcy.png)
+
+
+Conversion Examples:
+
+![f](https://imgur.com/K5FSklZ.png)
+
+![f](https://imgur.com/MUUkePL.png)
+
+
+---
+
+
+<h2>Quadrant of the Angle</h2>
+
+![f](https://imgur.com/7gdqQI5.png)
+
+<h3>Full Revolutions</h3>
+
+Sometimes the value will make several full revolutions around before it comes to a stop for example consider.
+
+![f](https://imgur.com/ckz9qNF.png)
+
+
+

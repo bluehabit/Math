@@ -18,6 +18,16 @@ If you go 1.5x over a unit or 150% its 1 + 1/2 which is written as 3/2 as a frac
 
 If you go 1.66x over a unit or 166% its 1 + 2/3 which is written as 5/3 as a fraction.
 
+Remember with fractions, if the number is a decimal with no whole number than it will always be less than 100% of that unit. For example 2/3, 5/10, 99/106 are all going to be a decimal.
+
+While 5/3, 9/5, 18/12 will all be greater than 100% of that unit. 
+
+<h2>Converting Improper Fractions to Mixed Numbers</h2>
+
+![f](https://imgur.com/cjlrew5.png)
+
+Its useful to convert an improper fraction to a mixed number because it allows us to see how many units we have. In the image above, we can see we have 6 whole units and 3/5 of the next unit. The units in this case are radians. 
+
 ----
 
 
@@ -43,7 +53,23 @@ You essentially divide out the negative. Any number divided by itself is `1`. So
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{-6}{-9}=\frac{2}{3}&space;\newline&space;\newline&space;-5*-5&space;=25" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{-6}{-9}=\frac{2}{3}&space;\newline&space;\newline&space;-5*-5&space;=25" title="\newline \frac{-6}{-9}=\frac{2}{3} \newline \newline -5*-5 =25" /></a>
  
-All three of the methods below: GCF, LCD, GCD all utilize *prime factorization*. 
+All three of the methods below: GCF, LCD, GCD all utilize *prime factorization*.
+
+<h2>Unit Conversions</h2> 
+
+![f](https://imgur.com/AQEJAGE.png)
+
+![f](https://imgur.com/habRQgm.png)
+
+![f](https://imgur.com/c8ZddFp.png)
+
+![f](https://imgur.com/41Wqjqt.png)
+
+![f](https://imgur.com/SWoT92U.png)
+
+![f](https://imgur.com/6R3kVGa.png)
+
+
 
 <h2>Fractions</h2>
 
@@ -184,17 +210,18 @@ Invert (switch) the numerator and denominator of the second fraction, it then be
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{5}{3}\div\frac{9}{10}=\frac{5}{3}*\frac{10}{9}=\frac{50}{27}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{5}{3}\div\frac{9}{10}=\frac{5}{3}*\frac{10}{9}=\frac{50}{27}" title="\frac{5}{3}\div\frac{9}{10}=\frac{5}{3}*\frac{10}{9}=\frac{50}{27}" /></a>
 
+![f](https://imgur.com/BKRyweY.png)
 
-<h3>Proper Fraction</h3>
+<h3>Improper Fraction</h3>
 
-When the numerator is larger than the denominator.
+When the numerator is larger than the denominator.  
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{8}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{8}{2}" title="\frac{8}{2}" /></a>
 
 
-<h3>Improper Fraction</h3>
+<h3>Proper Fraction</h3>
 
-When the numerator is smaller than the denominator. 
+When the numerator is smaller than the denominator. When a numerator is less than the denominator it will always produce a decimal. Meaning the value of the fraction is less than `1`. To reach `1` or `100%` you must meet or exceed the denominator.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{8}" title="\frac{2}{8}" /></a>
 

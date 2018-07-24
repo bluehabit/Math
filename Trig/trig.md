@@ -9,6 +9,8 @@ Whenever you see a fraction, the denominator will dictate what its in for exampl
 
 <h2>Factoring Reminder</h2>
 
+![f](https://imgur.com/tkwjJeF.png)
+
 ![f](https://imgur.com/YgaXFKm.png)
 
 <h2>Identifying if Angle is in Radians or Degrees</h2>
@@ -18,6 +20,8 @@ If an angle has the degrees symbol, then it is in degrees. If it has nothing it 
 ![f](https://imgur.com/aTSXBFs.png)
 
 <h2>What is a Radian</h2>
+
+![f](https://imgur.com/GIsEzdQ.png)
 
 `arc length === radius`
 
@@ -29,9 +33,11 @@ If an angle has the degrees symbol, then it is in degrees. If it has nothing it 
 
 The length of the radius can be expressed as an arc. This arc, called `arc length` is the same as `r`. `Arc length` is often expressed as the variable `S`. 
 
-![f](https://imgur.com/HM2GHau.png)
+![f](https://imgur.com/ttAkCez.png)
 
 **Radian**
+
+![f](https://imgur.com/h55Xu92.png)
 
 If we connect arc length to the center, that line we just put down is also the radius. 
 

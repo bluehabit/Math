@@ -8,6 +8,13 @@
 
 **Reminder on Fractions**
 
+Whenever you see a fraction, the denominator will dictate what its in for example:
+
+`15/4` is in `4ths`
+`pi/8` is in `8ths`
+`-5/3` is in `3rds`
+`4/6` is in `6ths`
+
 <h2>Converting Mixed Numbers</h2>
 
 ![f](https://imgur.com/4eNt7Nl.png)
@@ -679,6 +686,10 @@ One of the uses of these exponent-root properties is to simplify multiple *neste
 
 
 <h2>Factoring</h2>
+
+![f](https://imgur.com/tkwjJeF.png)
+
+![f](https://imgur.com/YgaXFKm.png)
 
 Get used to the idea of **expanding**
 

@@ -19,6 +19,10 @@ If an angle has the degrees symbol, then it is in degrees. If it has nothing it 
 
 ![f](https://imgur.com/aTSXBFs.png)
 
+<h2>Circle Fractions Visualized</h2>
+
+![f](https://imgur.com/1BGTYVG.png)
+
 <h2>What is a Radian</h2>
 
 ![f](https://imgur.com/GIsEzdQ.png)
@@ -80,6 +84,18 @@ Another Example:
 
 ![f](https://imgur.com/6R3kVGa.png)
 
+<h2>Converting Between Degrees and Radians</h2>
+
+![f](https://imgur.com/xG4eT5Z.png)
+
+In unit conversion always need some sort of relationship for example <a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;360^{\circ}=2\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;360^{\circ}=2\pi" title="\large 360^{\circ}=2\pi" /></a> That is a relationship we can use to convert. We can also take this formula one step further by simplifying using algebra. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\newline&space;\frac{360^{\circ}}{2}=\frac{2\pi}{2}&space;\newline&space;\newline&space;180^{\circ}=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\newline&space;\frac{360^{\circ}}{2}=\frac{2\pi}{2}&space;\newline&space;\newline&space;180^{\circ}=\pi" title="\large \newline \frac{360^{\circ}}{2}=\frac{2\pi}{2} \newline \newline 180^{\circ}=\pi" /></a>
+
+more examples:
+
+![f](https://imgur.com/8xj3Gt8.png)
+
 <h2>Quick algebra reminder</h2>
 
 <a href="https://arachnoid.com/latex/?equ=%5Cfrac%7B8%7D%7B5%7D"/></a>
@@ -131,7 +147,66 @@ Examples:
 ![f](https://imgur.com/jrKFbXK.png)
 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" title="\newline radians \cdot \frac{180^{\circ}}{\pi}=degrees \newline \newline degrees \cdot \frac{pi}{180^{\circ}}=radians" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;radians&space;\cdot&space;\frac{180^{\circ}}{\pi}=degrees&space;\newline&space;\newline&space;degrees&space;\cdot&space;\frac{pi}{180^{\circ}}=radians" title="\newline radians \cdot \frac{180^{\circ}}{\pi}=degrees \newline \newline degrees \cdot \frac{pi}{180^{\circ}}=radians" /></a> 
+
+
+<h2>Arc Length</h2>
+
+![f](https://imgur.com/pGFSEvV.png)
+
+Calculating `S` or `ArcLength` will use a different formula depending on if `theta` is provided to you in `degrees` or `radians`.
+
+`S` - ArcLength
+`theta` - Angle measurement in degrees or rads
+`R` - radius
+
+<h3>ArcLength Theta in Radians</h3>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\newline&space;S=\theta&space;R" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\newline&space;S=\theta&space;R" title="\large \newline S=\theta R" /></a>
+
+<h3>ArcLength Theta in Degrees</h3>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;S=\frac{\theta}{360^{\circ}}2\pi&space;r" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;S=\frac{\theta}{360^{\circ}}2\pi&space;r" title="\large S=\frac{\theta}{360^{\circ}}2\pi r" /></a>
+
+Very important note for this formula, notice the <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\theta}{360^{\circ}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\theta}{360^{\circ}}" title="\frac{\theta}{360^{\circ}}" /></a> component. Since theta is in degrees, and there are `360` deg in a circle, this is providing a fraction of that circle to multiply it by the circumference or `2 pi r`
+
+Example 1
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;r=8cm&space;\newline&space;\theta=150^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;r=8cm&space;\newline&space;\theta=150^{\circ}" title="\newline r=8cm \newline \theta=150^{\circ}" /></a>
+
+Since `theta` is provided to us in degrees, we must use that formula. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;S=\Big(\frac{150^{\circ}}{360^{\circ}}\Big)2\pi&space;r&space;\newline&space;\newline&space;S=\Big(\frac{15}{12}\Big)2\pi&space;r&space;\newline&space;\newline&space;S=20.944&space;radians" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;S=\Big(\frac{150^{\circ}}{360^{\circ}}\Big)2\pi&space;r&space;\newline&space;\newline&space;S=\Big(\frac{15}{12}\Big)2\pi&space;r&space;\newline&space;\newline&space;S=20.944&space;radians" title="\newline S=\Big(\frac{150^{\circ}}{360^{\circ}}\Big)2\pi r \newline \newline S=\Big(\frac{15}{12}\Big)2\pi r \newline \newline S=20.944 radians" /></a>
+
+Example 2:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\theta&space;=&space;5&space;\newline&space;r=12ft&space;\newline&space;s=?" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\theta&space;=&space;5&space;\newline&space;r=12ft&space;\newline&space;s=?" title="\newline \theta = 5 \newline r=12ft \newline s=?" /></a>
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=s=(5rad)(12ft/rad)=60ft" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s=(5rad)(12ft/rad)=60ft" title="s=(5rad)(12ft/rad)=60ft" /></a>
+
+<h2>Area of Sector of Circle</h2>
+
+Again just like `arclength` we have two separate equations for this. One formula if `theta` is in radians, another if in degrees.
+
+![f](https://imgur.com/StVSHoe.png)
+
+Example 1:
+
+Find area of `theta`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\newline&space;r=5ft&space;\newline&space;\theta=60^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\newline&space;r=5ft&space;\newline&space;\theta=60^{\circ}" title="\large \newline r=5ft \newline \theta=60^{\circ}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;A=\Big(\frac{60^{\circ}}{360^{\circ}}\Big)(\pi&space;r^2)&space;\newline&space;\newline&space;=\Big(\frac{1}{6}\Big)(\pi&space;r^2)&space;\newline&space;\newline&space;=13.08&space;ft^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;A=\Big(\frac{60^{\circ}}{360^{\circ}}\Big)(\pi&space;r^2)&space;\newline&space;\newline&space;=\Big(\frac{1}{6}\Big)(\pi&space;r^2)&space;\newline&space;\newline&space;=13.08&space;ft^2" title="\newline A=\Big(\frac{60^{\circ}}{360^{\circ}}\Big)(\pi r^2) \newline \newline =\Big(\frac{1}{6}\Big)(\pi r^2) \newline \newline =13.08 ft^2" /></a>
+
+Example 2: 
+
+Find area of `theta`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\newline&space;r=8cm&space;\newline&space;\theta=2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\newline&space;r=8cm&space;\newline&space;\theta=2" title="\large \newline r=8cm \newline \theta=2" /></a>
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;A=\Big(\frac{1}{2}\Big)(2)(8^2)&space;\newline&space;\newline&space;A=64cm^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;A=\Big(\frac{1}{2}\Big)(2)(8^2)&space;\newline&space;\newline&space;A=64cm^2" title="\newline A=\Big(\frac{1}{2}\Big)(2)(8^2) \newline \newline A=64cm^2" /></a>
 
 <h3>Sketching Angles in Standard Position</h3>
 

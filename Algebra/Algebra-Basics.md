@@ -80,6 +80,12 @@ All three of the methods below: GCF, LCD, GCD all utilize *prime factorization*.
 
 <h2>Fractions</h2>
 
+<h3>Flip Fractions Under 1 Rule</h3>
+
+When you have *stacked fractions* with 1 or 1/1 (which evaluates to 1), can flip the fraction and multiply. 
+
+![f](https://imgur.com/xQQ1A0E.png)
+
 <h3>Rationalizing the Denominator</h3>
 
 Rationalizing the denominator means to not have an irrational number in the denominator such as a square root. Lets look at an example below.
@@ -745,6 +751,12 @@ An algebraic expression raised to different powers might appear in different ter
 ![f](https://imgur.com/nyTmDa3.png)
 
 ![f](https://imgur.com/XfLviyY.png)
+
+----
+
+![f](https://imgur.com/5HfEFE3.png)
+
+Very important, we can **factor** this. `180/22.5 = 8`. So we can factor out the `22.5`. That leaves us with `pi/8`.
 
 
 <h3>Factoring By Grouping</h3>

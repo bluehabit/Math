@@ -7,11 +7,24 @@ Whenever you see a fraction, the denominator will dictate what its in for exampl
 `-5/3` is in `3rds`
 `4/6` is in `6ths`
 
+<h3>Flip Fractions Under 1 Rule</h3>
+
+When you have *stacked fractions* with 1 or 1/1 (which evaluates to 1), can flip the fraction and multiply. 
+
+![f](https://imgur.com/xQQ1A0E.png)
+
 <h2>Factoring Reminder</h2>
 
 ![f](https://imgur.com/tkwjJeF.png)
 
 ![f](https://imgur.com/YgaXFKm.png)
+
+----
+
+![f](https://imgur.com/5HfEFE3.png)
+
+Very important, we can **factor** this. `180/22.5 = 8`. So we can factor out the `22.5`. That leaves us with `pi/8`.
+
 
 <h2>Identifying if Angle is in Radians or Degrees</h2>
 
@@ -778,6 +791,155 @@ Conversion Examples:
 Sometimes the value will make several full revolutions around before it comes to a stop for example consider.
 
 ![f](https://imgur.com/ckz9qNF.png)
+
+
+<h2>Introduction to the Unit Circle</h2>
+
+![f](https://imgur.com/Ong1YFP.png)
+
+`unit circle` a circle with a radius that must be equal to `1`. So if we draw a ray at `45deg` and turn that into a right triangle, the hypotenuse will be equal to `1`. This forms a **point**, a set of `x,y coordinates`.
+
+We can use these points on the unit circle to figure out the `cos` and `sin` values.
+
+`cos` is the `x` value, `sin` is the `y` value.
+
+<h3>First Quadrant: Values of the Unit Circle</h3>
+
+![f](https://imgur.com/mWSZ05e.png)
+
+You only need to memorize the values for the first quadrant of the unit circle, we can use these to find the values in other quadrants.
+
+<h3>Figuring out Other Quadrants</h3>
+
+To get the other quadrant values, just look at the x,y pairing on that side of the graph. And adjust the values accordingly. 
+
+<h3>Examples in Degrees</h3>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin(45^{\circ})=\frac{\sqrt{2}}{2}&space;\newline&space;\newline&space;sin(60^{\circ})=\frac{\sqrt{3}}{2}&space;\newline&space;\newline&space;cos(180^{\circ})=-1&space;\newline&space;\newline&space;sin(30^{\circ})=\frac{1}{2}&space;\newline" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin(45^{\circ})=\frac{\sqrt{2}}{2}&space;\newline&space;\newline&space;sin(60^{\circ})=\frac{\sqrt{3}}{2}&space;\newline&space;\newline&space;cos(180^{\circ})=-1&space;\newline&space;\newline&space;sin(30^{\circ})=\frac{1}{2}&space;\newline" title="\newline sin(45^{\circ})=\frac{\sqrt{2}}{2} \newline \newline sin(60^{\circ})=\frac{\sqrt{3}}{2} \newline \newline cos(180^{\circ})=-1 \newline \newline sin(30^{\circ})=\frac{1}{2} \newline" /></a>
+
+<h3>Examples in Radians</h3>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin(\frac{\pi}{3})=60^{\circ}=\frac{\sqrt{3}}{2}&space;\newline&space;\newline&space;cos(\frac{2\pi}{3})=\frac{-1}{2}&space;\newline&space;\newline&space;sin(\frac{4\pi}{3})=\frac{-\sqrt{3}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin(\frac{\pi}{3})=60^{\circ}=\frac{\sqrt{3}}{2}&space;\newline&space;\newline&space;cos(\frac{2\pi}{3})=\frac{-1}{2}&space;\newline&space;\newline&space;sin(\frac{4\pi}{3})=\frac{-\sqrt{3}}{2}" title="\newline sin(\frac{\pi}{3})=60^{\circ}=\frac{\sqrt{3}}{2} \newline \newline cos(\frac{2\pi}{3})=\frac{-1}{2} \newline \newline sin(\frac{4\pi}{3})=\frac{-\sqrt{3}}{2}" /></a>
+
+
+<h2>Reference Angles</h2>
+
+Formula:
+
+Quadrant 1:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\theta&space;ref=\theta_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\theta&space;ref=\theta_{1}" title="\large \theta ref=\theta_{1}" /></a>
+
+Quadrant 2:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\theta&space;ref=180-\theta_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\theta&space;ref=180-\theta_{2}" title="\large \theta ref=180-\theta_{2}" /></a>
+
+
+Quadrant 3:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\theta&space;ref=\theta_{3}&space;-&space;180" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\theta&space;ref=\theta_{3}&space;-&space;180" title="\large \theta ref=\theta_{3} - 180" /></a>
+
+Quadrant 4:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\theta&space;ref=360&space;-&space;\theta_{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\theta&space;ref=360&space;-&space;\theta_{4}" title="\large \theta ref=360 - \theta_{4}" /></a>
+
+Examples:
+
+![f](https://imgur.com/DTGOaNH.png)
+
+Because theta lies within quadrant 2 that is the formula we will use
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\theta&space;ref&space;=&space;210-180=30" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\theta&space;ref&space;=&space;210-180=30" title="\large \theta ref = 210-180=30" /></a>
+
+---
+
+Find the reference angle of `theta = 150 deg` 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\theta&space;ref&space;=&space;180-150=30" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\theta&space;ref&space;=&space;180-150=30" title="\large \theta ref = 180-150=30" /></a>
+
+Find the reference angle of `theta = 315`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\theta&space;ref&space;=&space;360-315=45" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\theta&space;ref&space;=&space;360-315=45" title="\large \theta ref = 360-315=45" /></a>
+
+<h3>Finding Reference Angles when Negative</h3>
+
+When `theta` is negative you must first find a *coterminal* angle.
+
+
+Example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\theta&space;ref&space;=&space;-150" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta&space;ref&space;=&space;-150" title="\theta ref = -150" /></a>
+
+The `coterminal angle` of `-150` is `-150 + 360 = 210`. `210` is in quadrant 3.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\theta&space;ref&space;=&space;360-180=30" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta&space;ref&space;=&space;360-180=30" title="\theta ref = 360-180=30" /></a>
+
+<h3>Find reference angle in radians</h3>
+
+If the angle you are given is not a "common measurement" you can solve it like this.
+
+1. Convert to degrees
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3\pi}{5}=\frac{3\pi}{5}\cdot\frac{180^{\circ}}{\pi}=108^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3\pi}{5}=\frac{3\pi}{5}\cdot\frac{180^{\circ}}{\pi}=108^{\circ}" title="\frac{3\pi}{5}=\frac{3\pi}{5}\cdot\frac{180^{\circ}}{\pi}=108^{\circ}" /></a>
+
+
+`108deg` is in quadrant 2. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\theta&space;ref=180-108=72" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta&space;ref=180-108=72" title="\theta ref=180-108=72" /></a>
+
+Finally convert back to radians
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{72^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{2\pi}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{72^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{2\pi}{5}" title="\frac{72^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{2\pi}{5}" /></a>
+
+Another Example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\theta&space;ref&space;=&space;\frac{9\pi}{8}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta&space;ref&space;=&space;\frac{9\pi}{8}" title="\theta ref = \frac{9\pi}{8}" /></a>
+
+Convert to degrees
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{9\pi}{8}=\frac{9\pi}{8}\cdot\frac{180^{\circ}}{\pi}=202.5^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{9\pi}{8}=\frac{9\pi}{8}\cdot\frac{180^{\circ}}{\pi}=202.5^{\circ}" title="\frac{9\pi}{8}=\frac{9\pi}{8}\cdot\frac{180^{\circ}}{\pi}=202.5^{\circ}" /></a>
+
+It is in quadrant 3
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\theta&space;ref&space;=&space;202.5-180=22.5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta&space;ref&space;=&space;202.5-180=22.5" title="\theta ref = 202.5-180=22.5" /></a>
+
+Convert back to radians
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{22.5^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{22.5\pi}{180}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{22.5^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{22.5\pi}{180}" title="\frac{22.5^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{22.5\pi}{180}" /></a>
+
+Very important, we can **factor** this. `180/22.5 = 8`. So we can factor out the `22.5`. That leaves us with `pi/8`.
+
+
+![f](https://imgur.com/5HfEFE3.png)
+
+<h3>Finding Reference Angle With Negative Radians</h3>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\theta&space;ref&space;=&space;\frac{-8\pi}{9}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta&space;ref&space;=&space;\frac{-8\pi}{9}" title="\theta ref = \frac{-8\pi}{9}" /></a>
+
+First convert to degrees
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{-8\pi}{9}\cdot\frac{180^{\circ}}{\pi}=-160^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{-8\pi}{9}\cdot\frac{180^{\circ}}{\pi}=-160^{\circ}" title="\frac{-8\pi}{9}\cdot\frac{180^{\circ}}{\pi}=-160^{\circ}" /></a>
+
+Next find the *coterminal angle*
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-160&plus;360=200" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-160&plus;360=200" title="-160+360=200" /></a>
+
+This is in quadrant 2, therefore: 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=200-180=20" target="_blank"><img src="https://latex.codecogs.com/gif.latex?200-180=20" title="200-180=20" /></a>
+
+Now lets convert back to radians
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{20^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{\pi}{9}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{20^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{\pi}{9}" title="\frac{20^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{\pi}{9}" /></a>
+
+<h2>The Six Trigonometric Functions</h2>
+
+`sin, cos, tan, sequent, consequent, cotangent` 
+
+![f](https://imgur.com/bTKs923.png)
+
+<h2>Reciprocal Identities</h2>
+
+![f](https://imgur.com/1DJG1li.png)
 
 
 

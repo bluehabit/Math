@@ -805,12 +805,12 @@ We can use these points on the unit circle to figure out the `cos` and `sin` val
 
 <h3>First Quadrant: Values of the Unit Circle</h3>
 
-![f](https://imgur.com/mWSZ05e.png)
+![f](https://imgur.com/nOsf318.png)
 
 You only need to memorize the values for the first quadrant of the unit circle, we can use these to find the values in other quadrants.
 
 <h3>Figuring out Other Quadrants</h3>
-
+s
 To get the other quadrant values, just look at the x,y pairing on that side of the graph. And adjust the values accordingly. 
 
 <h3>Examples in Degrees</h3>
@@ -823,6 +823,12 @@ To get the other quadrant values, just look at the x,y pairing on that side of t
 
 
 <h2>Reference Angles</h2>
+
+<h3>Important Legend</h3>
+
+![f](https://imgur.com/e9qSNU9.png)
+
+**In the above legend, if you don't see that angle measure in RADIANS, then you must use the technique where you convert it to degrees, check the quadrant, then convert back to radians!**
 
 Formula:
 
@@ -878,6 +884,8 @@ The `coterminal angle` of `-150` is `-150 + 360 = 210`. `210` is in quadrant 3.
 
 If the angle you are given is not a "common measurement" you can solve it like this.
 
+In this example find the reference angle of `3pi/5`  
+
 1. Convert to degrees
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3\pi}{5}=\frac{3\pi}{5}\cdot\frac{180^{\circ}}{\pi}=108^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3\pi}{5}=\frac{3\pi}{5}\cdot\frac{180^{\circ}}{\pi}=108^{\circ}" title="\frac{3\pi}{5}=\frac{3\pi}{5}\cdot\frac{180^{\circ}}{\pi}=108^{\circ}" /></a>
@@ -931,15 +939,146 @@ This is in quadrant 2, therefore:
 Now lets convert back to radians
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{20^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{\pi}{9}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{20^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{\pi}{9}" title="\frac{20^{\circ}}{1}\cdot\frac{\pi}{180^{\circ}}=\frac{\pi}{9}" /></a>
 
+<h3>Alternative Method for Finding Reference Angle</h3>
+
+Instead of memorizing formulas, just look at the graph, shade it, and figure out the missing piece that way as shown in these examples.
+
+![f](https://imgur.com/EcEr5cx.png)
+
+![f](https://imgur.com/TaMVF2T.png)
+
+![f](https://imgur.com/OVfRE2q.png)
+
+
 <h2>The Six Trigonometric Functions</h2>
 
 `sin, cos, tan, sequent, consequent, cotangent` 
 
 ![f](https://imgur.com/bTKs923.png)
 
+<h2>Super Legend</h2>
+
+![f](https://imgur.com/vwvkW4X.png)
+
+
 <h2>Reciprocal Identities</h2>
 
 ![f](https://imgur.com/1DJG1li.png)
 
+<h3>Entering Reciprocal Identities into Calculator</h3>
+
+On the ti83 at least there is no button for secant, cosecant or cotangent. In order to plug these into a calculator just plug in the reciprocal manually as shown below
+
+![f](https://imgur.com/3Ygcnfj.png)
+
+Examples:
+
+1) <a href="https://www.codecogs.com/eqnedit.php?latex=sec\frac{\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec\frac{\pi}{3}" title="sec\frac{\pi}{3}" /></a>
+
+First convert radians to degrees
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\pi}{3}\cdot\frac{180^{\circ}}{\pi}=60^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\pi}{3}\cdot\frac{180^{\circ}}{\pi}=60^{\circ}" title="\frac{\pi}{3}\cdot\frac{180^{\circ}}{\pi}=60^{\circ}" /></a>
+
+Next graph it to figure out what point we choose
+
+The reciprocal of `sec(pi/3)` `cos(pi/3)` and because our angle is `60deg` and the reciprocal is `cos` we choose the `x` coordinate, `1/2`. 
+
+![f](https://imgur.com/LBankoJ.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1}{cos(\frac{\pi}{3})}=\frac{1}{\frac{1}{2}}=\frac{1}{1}\cdot\frac{2}{1}=2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{1}{cos(\frac{\pi}{3})}=\frac{1}{\frac{1}{2}}=\frac{1}{1}\cdot\frac{2}{1}=2" title="\frac{1}{cos(\frac{\pi}{3})}=\frac{1}{\frac{1}{2}}=\frac{1}{1}\cdot\frac{2}{1}=2" /></a>
+
+`2` is our final answer.
+
+2) <a href="https://www.codecogs.com/eqnedit.php?latex=csc(\frac{4\pi}{3})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?csc(\frac{4\pi}{3})" title="csc(\frac{4\pi}{3})" /></a>
+
+First convert from radians to degrees
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{4\pi}{3}=240^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{4\pi}{3}=240^{\circ}" title="\frac{4\pi}{3}=240^{\circ}" /></a>
+
+Next `graph` it and figure out which point to select.
+
+![f](https://imgur.com/2zUcEqB.png)
+
+To figure out what `point` we need, lets get the reciprocal. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=csc(\frac{4\pi}{3})=\frac{1}{sin(\frac{4\pi}{3})}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?csc(\frac{4\pi}{3})=\frac{1}{sin(\frac{4\pi}{3})}" title="csc(\frac{4\pi}{3})=\frac{1}{sin(\frac{4\pi}{3})}" /></a>
+
+Since the reciprocal is using `sin` we use the `y` coordinate. So our `point` is <a href="https://www.codecogs.com/eqnedit.php?latex=-\frac{\sqrt{3}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-\frac{\sqrt{3}}{2}" title="-\frac{\sqrt{3}}{2}" /></a>
+
+So lets solve, don't forget to `rationalize` the denominator. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=csc(\frac{4\pi}{3})=\frac{1}{sin(\frac{4\pi}{3})}=\frac{1}{-\frac{\sqrt{3}}{2}}=\frac{-2}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{-2\sqrt{3}}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?csc(\frac{4\pi}{3})=\frac{1}{sin(\frac{4\pi}{3})}=\frac{1}{-\frac{\sqrt{3}}{2}}=\frac{-2}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{-2\sqrt{3}}{3}" title="csc(\frac{4\pi}{3})=\frac{1}{sin(\frac{4\pi}{3})}=\frac{1}{-\frac{\sqrt{3}}{2}}=\frac{-2}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{-2\sqrt{3}}{3}" /></a>
+
+3) <a href="https://www.codecogs.com/eqnedit.php?latex=sec(330^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec(330^{\circ})" title="sec(330^{\circ})" /></a>
+
+Since we are already in `degrees` no need to convert anything.
+
+Next lets `graph` and figure out what `point` we need.
+
+![f](https://imgur.com/TSwIjD6.png)
+
+Lets find the `reciprocal` and figure out what `point` we need to use. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sec(330^{\circ})=\frac{1}{cos(330^\circ)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec(330^{\circ})=\frac{1}{cos(330^\circ)}" title="sec(330^{\circ})=\frac{1}{cos(330^\circ)}" /></a>
+
+Because it is `cos` we need the `x` coordinate, therefore <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\sqrt{3}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\sqrt{3}}{2}" title="\frac{\sqrt{3}}{2}" /></a> is our answer.
+
+4) <a href="https://www.codecogs.com/eqnedit.php?latex=csc(-225^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?csc(-225^{\circ})" title="csc(-225^{\circ})" /></a>
+
+We are already in `degrees` no need to convert.
+
+Lets `graph` and figure out what `point` we need. BUT before we can do that notice we have a negative angle. Lets find a `coterminal` angle first.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-225&plus;360=135^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-225&plus;360=135^{\circ}" title="-225+360=135^{\circ}" /></a>
+
+![f](https://imgur.com/HutV5N5.png)
+
+Now lets figure out which `point` we need with the reciprocal. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=csc(-225^{\circ})=\frac{1}{sin(-225{^\circ})}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?csc(-225^{\circ})=\frac{1}{sin(-225{^\circ})}" title="csc(-225^{\circ})=\frac{1}{sin(-225{^\circ})}" /></a>
+
+Because it is `sin` we need the `y` coordinate which is <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\sqrt{2}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\sqrt{2}}{2}" title="\frac{\sqrt{2}}{2}" /></a>
+
+Lets solve now, don't forget to rationalize the denominator:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=csc(-225^{\circ})=\frac{1}{sin(-225{^\circ})}=\frac{1}{\frac{\sqrt{2}}{2}}=\frac{2}{\sqrt{2}}\cdot\frac{\sqrt{2}}{\sqrt{2}}=\frac{2\sqrt{2}}{2}=\sqrt{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?csc(-225^{\circ})=\frac{1}{sin(-225{^\circ})}=\frac{1}{\frac{\sqrt{2}}{2}}=\frac{2}{\sqrt{2}}\cdot\frac{\sqrt{2}}{\sqrt{2}}=\frac{2\sqrt{2}}{2}=\sqrt{2}" title="csc(-225^{\circ})=\frac{1}{sin(-225{^\circ})}=\frac{1}{\frac{\sqrt{2}}{2}}=\frac{2}{\sqrt{2}}\cdot\frac{\sqrt{2}}{\sqrt{2}}=\frac{2\sqrt{2}}{2}=\sqrt{2}" /></a>
+
+5) <a href="https://www.codecogs.com/eqnedit.php?latex=sec(\frac{-7\pi}{6})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec(\frac{-7\pi}{6})" title="sec(\frac{-7\pi}{6})" /></a>
+
+First convert to `degrees`.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{-7\pi}{6}=-210^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{-7\pi}{6}=-210^{\circ}" title="\frac{-7\pi}{6}=-210^{\circ}" /></a>
+
+This is a negative angle, so lets find the first positive `coterminal` angle. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-210&space;&plus;&space;360&space;=&space;150^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-210&space;&plus;&space;360&space;=&space;150^{\circ}" title="-210 + 360 = 150^{\circ}" /></a>
+
+Next lets `graph` and find a `point`. 
+
+![f](https://imgur.com/0b68b6A.png)
+
+Lets find the `reciprocal`. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sec(\frac{-7\pi}{6})=\frac{1}{cos(\frac{-7\pi}{6})}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec(\frac{-7\pi}{6})=\frac{1}{cos(\frac{-7\pi}{6})}" title="sec(\frac{-7\pi}{6})=\frac{1}{cos(\frac{-7\pi}{6})}" /></a>
+
+Since we have `cos` in reciprocal we are using the `x` coordinate. Therefore we select <a href="https://www.codecogs.com/eqnedit.php?latex=-\frac{\sqrt{3}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-\frac{\sqrt{3}}{2}" title="-\frac{\sqrt{3}}{2}" /></a>
+as our point.
+
+Lets solve, remember to rationalize the denominator:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sec(\frac{-7\pi}{6})=\frac{1}{cos(\frac{-7\pi}{6})}=\frac{1}{-\frac{\sqrt{3}}{2}}=\frac{-2}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=-\frac{2\sqrt{3}}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec(\frac{-7\pi}{6})=\frac{1}{cos(\frac{-7\pi}{6})}=\frac{1}{-\frac{\sqrt{3}}{2}}=\frac{-2}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=-\frac{2\sqrt{3}}{3}" title="sec(\frac{-7\pi}{6})=\frac{1}{cos(\frac{-7\pi}{6})}=\frac{1}{-\frac{\sqrt{3}}{2}}=\frac{-2}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=-\frac{2\sqrt{3}}{3}" /></a>
+
+6) <a href="https://www.codecogs.com/eqnedit.php?latex=sec(0^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec(0^{\circ})" title="sec(0^{\circ})" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sec(0^{\circ})=\frac{1}{cos(0^{\circ})}=\frac{1}{1}=1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sec(0^{\circ})=\frac{1}{cos(0^{\circ})}=\frac{1}{1}=1" title="sec(0^{\circ})=\frac{1}{cos(0^{\circ})}=\frac{1}{1}=1" /></a>
 
 
+<h2>Quotient Identities</h2>
+
+Highlighted ones below are the quotient identities. 
+
+![f](https://imgur.com/sxncHzO.png)
+
+Reminder on simplifying complex fractions, eliminate denominator if you can 
+
+![f](https://imgur.com/S3sszB8.png)

@@ -62,6 +62,16 @@ You essentially divide out the negative. Any number divided by itself is `1`. So
  
 All three of the methods below: GCF, LCD, GCD all utilize *prime factorization*.
 
+<h2>Complex Fractions</h2>
+
+Can sometimes simplify complex fractions like this by multiplying by the denominator to cancel it out on both sides. Otherwise you can invert the second fraction and change it to multiplication instead of division. 
+
+Like this:
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{4}{5}\cdot\frac{5}{3}=\frac{20}{15}=\frac{4}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{4}{5}\cdot\frac{5}{3}=\frac{20}{15}=\frac{4}{3}" title="\frac{4}{5}\cdot\frac{5}{3}=\frac{20}{15}=\frac{4}{3}" /></a>
+
+
+![f](https://imgur.com/S3sszB8.png)
+
 <h2>Unit Conversions</h2> 
 
 ![f](https://imgur.com/AQEJAGE.png)

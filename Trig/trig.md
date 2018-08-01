@@ -441,7 +441,7 @@ If you set it up correctly this should be the output.
 
 ![f](https://imgur.com/EDX8HYf.png)
 
-![f](https://imgur.com/6a5xJeK.png)
+![f](https://imgur.com/Acbsqd8.png)
 
 
 <h2> Solving Right Triangles with Trigonmetric Functions</h2>
@@ -803,9 +803,34 @@ We can use these points on the unit circle to figure out the `cos` and `sin` val
 
 `cos` is the `x` value, `sin` is the `y` value.
 
-<h3>First Quadrant: Values of the Unit Circle</h3>
+<h2>POINTS: Values of the Unit Circle</h2>
+
+<h3>Read Carefully</h3>
+
+On the unit circle we have `points` they can be thought of as `x,y` value pairs. Their value will differ depending on what quadrant of the graph you are located. This is a very important concept we will be using it over and over
+
+On the `points` in the graphic below, again they come in `x,y` pairs. The `x` value always represents `cosine`, the `y` value always represents `sin`. 
+
+Later, when we are given formulas for `tan theta`:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=tan\theta&space;=&space;\frac{sin\theta}{cos\theta}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan\theta&space;=&space;\frac{sin\theta}{cos\theta}" title="tan\theta = \frac{sin\theta}{cos\theta}" /></a>
+
+Now lets say we are provided `sin` of `theta` and `co` of `theta` shown below.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin\theta=\frac{4}{5}&space;\newline&space;\newline&space;cos\theta=\frac{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin\theta=\frac{4}{5}&space;\newline&space;\newline&space;cos\theta=\frac{3}{5}" title="\newline sin\theta=\frac{4}{5} \newline \newline cos\theta=\frac{3}{5}" /></a>
+
+We can plug these into the formula. But remember because of the `points` on the unit circle we can just think of `cos` as `x` and `sin` as `y`. 
+
+So we can rewrite our original equation this way as well if we would like. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;tan\theta&space;=&space;\frac{sin\theta}{cos\theta}=\frac{x}{y}&space;\newline&space;\newline&space;tan\theta&space;=&space;\frac{\frac{4}{5}}{\frac{3}{5}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;tan\theta&space;=&space;\frac{sin\theta}{cos\theta}=\frac{x}{y}&space;\newline&space;\newline&space;tan\theta&space;=&space;\frac{\frac{4}{5}}{\frac{3}{5}}" title="\newline tan\theta = \frac{sin\theta}{cos\theta}=\frac{x}{y} \newline \newline tan\theta = \frac{\frac{4}{5}}{\frac{3}{5}}" /></a>
+
+
+
 
 ![f](https://imgur.com/nOsf318.png)
+
+-----
 
 You only need to memorize the values for the first quadrant of the unit circle, we can use these to find the values in other quadrants.
 

@@ -1,5 +1,20 @@
 <h1>Math</h1>
 
+
+<h2>Negative divided by Negative</h2>
+
+A negative number divided by a negative
+number yields a positive number.
+
+For example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{-8}{-2}=4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{-8}{-2}=4" title="\frac{-8}{-2}=4" /></a>
+
+Another example (trig problem):
+
+![f](https://imgur.com/a3e4FvV.png)
+
+
 <h2>Algebra Reminder</h2>
 
 ![f](https://imgur.com/DSKr9Ax.png)
@@ -95,6 +110,18 @@ Like this:
 When you have *stacked fractions* with 1 or 1/1 (which evaluates to 1), can flip the fraction and multiply. 
 
 ![f](https://imgur.com/xQQ1A0E.png)
+
+Why does this work? Lets work a few examples out. This also applies if it is `-1` just adjust your sign accordingly.
+
+![f](https://imgur.com/0xDPg4j.png)
+
+<h3>Fraction Basics</h3>
+
+If we have a fraction such as `5/4` we can describe this as a `improper fraction` because the numerator is larger than the denominator. If the numerator is smaller than the denominator, you know it is less than `1`, or less than `100%`
+
+For example `1/5` is `.2`, a decimal. It also happens to be in `fifths` because the denominator is `5`. 
+
+On the other hand `5/4` will be a whole number over 1 because the numerator is larger than the denominator. It will give us the answer `1.25`. This fraction is also in `fourths` because the denominator is `4`. If you think about it logically it makes sense why we arrive at `1.25`. We are `1` over `100%` and because the fraction is in `fourths` we are incrementing by `.25`. Each unit is a quarter, or `.25`, therefore `5/4` is `1.25`. 
 
 <h3>Rationalizing the Denominator</h3>
 

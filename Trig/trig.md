@@ -1107,3 +1107,302 @@ Highlighted ones below are the quotient identities.
 Reminder on simplifying complex fractions, eliminate denominator if you can 
 
 ![f](https://imgur.com/S3sszB8.png)
+
+Remember this is about picking `points` a set of `x,y` value coordinates on the unit circle. 
+
+
+<h3>Read Carefully</h3>
+
+On the unit circle we have `points` they can be thought of as `x,y` value pairs. Their value will differ depending on what quadrant of the graph you are located. This is a very important concept we will be using it over and over
+
+On the `points` in the graphic below, again they come in `x,y` pairs. The `x` value always represents `cosine`, the `y` value always represents `sin`. 
+
+Later, when we are given formulas for `tan theta`:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=tan\theta&space;=&space;\frac{sin\theta}{cos\theta}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan\theta&space;=&space;\frac{sin\theta}{cos\theta}" title="tan\theta = \frac{sin\theta}{cos\theta}" /></a>
+
+Now lets say we are provided `sin` of `theta` and `co` of `theta` shown below.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin\theta=\frac{4}{5}&space;\newline&space;\newline&space;cos\theta=\frac{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin\theta=\frac{4}{5}&space;\newline&space;\newline&space;cos\theta=\frac{3}{5}" title="\newline sin\theta=\frac{4}{5} \newline \newline cos\theta=\frac{3}{5}" /></a>
+
+We can plug these into the formula. But remember because of the `points` on the unit circle we can just think of `cos` as `x` and `sin` as `y`. 
+
+So we can rewrite our original equation this way as well if we would like. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;tan\theta&space;=&space;\frac{sin\theta}{cos\theta}=\frac{x}{y}&space;\newline&space;\newline&space;tan\theta&space;=&space;\frac{\frac{4}{5}}{\frac{3}{5}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;tan\theta&space;=&space;\frac{sin\theta}{cos\theta}=\frac{x}{y}&space;\newline&space;\newline&space;tan\theta&space;=&space;\frac{\frac{4}{5}}{\frac{3}{5}}" title="\newline tan\theta = \frac{sin\theta}{cos\theta}=\frac{x}{y} \newline \newline tan\theta = \frac{\frac{4}{5}}{\frac{3}{5}}" /></a>
+
+----
+
+Examples:
+
+1) <a href="https://www.codecogs.com/eqnedit.php?latex=tan(\frac{\pi}{4})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan(\frac{\pi}{4})" title="tan(\frac{\pi}{4})" /></a>
+
+First lets `graph` it and pick our `points`
+
+![f](https://imgur.com/osTba8d.png)
+
+Next lets plug our `x,y` point values into the formula.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=tan=\frac{y}{x}=\frac{\frac{\sqrt{2}}{2}}{\frac{\sqrt{2}}{2}}=1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan=\frac{y}{x}=\frac{\frac{\sqrt{2}}{2}}{\frac{\sqrt{2}}{2}}=1" title="tan=\frac{y}{x}=\frac{\frac{\sqrt{2}}{2}}{\frac{\sqrt{2}}{2}}=1" /></a>
+
+
+2)<a href="https://www.codecogs.com/eqnedit.php?latex=tan(\frac{2\pi}{3})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan(\frac{2\pi}{3})" title="tan(\frac{2\pi}{3})" /></a>
+
+First lets `graph` and find our `points`
+
+![f](https://imgur.com/dfQiknc.png)
+
+Now lets plug in our `point x y ` values into our formula.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=tan=\frac{y}{x}=\frac{\frac{\sqrt{3}}{2}}{-\frac{1}{2}}=\frac{\sqrt{3}}{-1}=-\sqrt{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan=\frac{y}{x}=\frac{\frac{\sqrt{3}}{2}}{-\frac{1}{2}}=\frac{\sqrt{3}}{-1}=-\sqrt{3}" title="tan=\frac{y}{x}=\frac{\frac{\sqrt{3}}{2}}{-\frac{1}{2}}=\frac{\sqrt{3}}{-1}=-\sqrt{3}" /></a>
+
+3) <a href="https://www.codecogs.com/eqnedit.php?latex=cot=\frac{4\pi}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cot=\frac{4\pi}{3}" title="cot=\frac{4\pi}{3}" /></a>
+
+First lets `graph` and find the `points`
+
+![f](https://imgur.com/I3CSHnI.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=cot=\frac{x}{y}=\frac{-\frac{1}{2}}{-\frac{\sqrt{3}}{2}}=\frac{-1}{-\sqrt{3}}=\frac{1}{\sqrt{3}}=\frac{1}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cot=\frac{x}{y}=\frac{-\frac{1}{2}}{-\frac{\sqrt{3}}{2}}=\frac{-1}{-\sqrt{3}}=\frac{1}{\sqrt{3}}=\frac{1}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{3}" title="cot=\frac{x}{y}=\frac{-\frac{1}{2}}{-\frac{\sqrt{3}}{2}}=\frac{-1}{-\sqrt{3}}=\frac{1}{\sqrt{3}}=\frac{1}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{3}" /></a>
+
+
+4) <a href="https://www.codecogs.com/eqnedit.php?latex=tan(-210^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan(-210^{\circ})" title="tan(-210^{\circ})" /></a>
+
+First lets find a coterminal angle thats not negative.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-210&plus;360=150^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-210&plus;360=150^{\circ}" title="-210+360=150^{\circ}" /></a>
+
+Next lets `graph` and find the `point` values.
+
+![f](https://imgur.com/0KPUmzY.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=tan=\frac{y}{x}=\frac{\frac{1}{2}}{\frac{\sqrt{3}}{2}}=\frac{1}{-\sqrt{3}}=\frac{1}{-\sqrt{3}}&space;\cdot\frac{-\sqrt{3}}{-\sqrt{3}}=\frac{-\sqrt{3}}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan=\frac{y}{x}=\frac{\frac{1}{2}}{\frac{\sqrt{3}}{2}}=\frac{1}{-\sqrt{3}}=\frac{1}{-\sqrt{3}}&space;\cdot\frac{-\sqrt{3}}{-\sqrt{3}}=\frac{-\sqrt{3}}{3}" title="tan=\frac{y}{x}=\frac{\frac{1}{2}}{\frac{\sqrt{3}}{2}}=\frac{1}{-\sqrt{3}}=\frac{1}{-\sqrt{3}} \cdot\frac{-\sqrt{3}}{-\sqrt{3}}=\frac{-\sqrt{3}}{3}" /></a>
+
+5) <a href="https://www.codecogs.com/eqnedit.php?latex=tan(0^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan(0^{\circ})" title="tan(0^{\circ})" /></a>
+
+
+![f](https://imgur.com/EJTLHfW.png)
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=tan&space;=&space;\frac{y}{x}=\frac{0}{1}=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan&space;=&space;\frac{y}{x}=\frac{0}{1}=0" title="tan = \frac{y}{x}=\frac{0}{1}=0" /></a>
+
+<h2>Odd and Even Trig Functions Shortcuts</h2>
+
+![f](https://imgur.com/R3u34zP.png)
+
+There are some shortcuts for trig functions depending on if its an 'odd' or 'even' function. 
+
+Either way, if you use the shorthand or do it as normal, you arrive at the same answer.
+
+Lets look at some examples:
+
+1) <a href="https://www.codecogs.com/eqnedit.php?latex=cos(-45^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cos(-45^{\circ})" title="cos(-45^{\circ})" /></a>
+
+**Shortcut Solution**
+
+We can see from the shortcut that 
+<a href="https://www.codecogs.com/eqnedit.php?latex=cos(-x)=cos(x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cos(-x)=cos(x)" title="cos(-x)=cos(x)" /></a>
+
+So lets `graph` it and then find the `points`. 
+
+![f](https://imgur.com/6L4z4oY.png)
+
+Because `cos` is associated with the `x` coordinate, the value is equal to
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=cos(-45^{\circ})=\frac{\sqrt{2}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cos(-45^{\circ})=\frac{\sqrt{2}}{2}" title="cos(-45^{\circ})=\frac{\sqrt{2}}{2}" /></a>
+
+**Longhand Solution**
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=cos(-45^{\circ})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cos(-45^{\circ})" title="cos(-45^{\circ})" /></a>
+
+First we must find a `coterminal` positive angle. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-45&space;&plus;&space;360&space;=&space;315^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-45&space;&plus;&space;360&space;=&space;315^{\circ}" title="-45 + 360 = 315^{\circ}" /></a>
+
+Next lets `graph` it and find the `points`.
+
+![f](https://imgur.com/DQ2GwTJ.png)
+
+Because `cos` is related to the `x` coordinate we get the same answer 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=cos(-45^{\circ})=\frac{\sqrt{2}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cos(-45^{\circ})=\frac{\sqrt{2}}{2}" title="cos(-45^{\circ})=\frac{\sqrt{2}}{2}" /></a>
+
+**How both Solutions relate**
+
+![f](https://imgur.com/aT0tChw.png)
+
+One more Example:
+
+2) <a href="https://www.codecogs.com/eqnedit.php?latex=sin(\frac{-\pi}{3})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sin(\frac{-\pi}{3})" title="sin(\frac{-\pi}{3})" /></a>
+
+**Shortcut Solution**
+
+Using our shortcut we can see:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sin(\frac{-\pi}{3})=-sin(\frac{\pi}{3})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sin(\frac{-\pi}{3})=-sin(\frac{\pi}{3})" title="sin(\frac{-\pi}{3})=-sin(\frac{\pi}{3})" /></a>
+
+Lets `graph` it and find the `points`
+
+![f](https://imgur.com/mHwrZYI.png)
+
+Because we are using `sin` we are dealing with the `y` value. 
+
+Therefore: 
+<a href="https://www.codecogs.com/eqnedit.php?latex=sin(\frac{-\pi}{3})=-sin(\frac{\pi}{3})=-(\frac{\sqrt{3}}{2})=-\frac{\sqrt{3}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sin(\frac{-\pi}{3})=-sin(\frac{\pi}{3})=-(\frac{\sqrt{3}}{2})=-\frac{\sqrt{3}}{2}" title="sin(\frac{-\pi}{3})=-sin(\frac{\pi}{3})=-(\frac{\sqrt{3}}{2})=-\frac{\sqrt{3}}{2}" /></a>
+
+
+**Longhand Solution**
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sin(\frac{-\pi}{3})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sin(\frac{-\pi}{3})" title="sin(\frac{-\pi}{3})" /></a>
+
+First lets convert to a positive `coterminal angle` 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sin(\frac{-\pi}{3})=-60^{\circ}=-60&plus;360=300^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sin(\frac{-\pi}{3})=-60^{\circ}=-60&plus;360=300^{\circ}" title="sin(\frac{-\pi}{3})=-60^{\circ}=-60+360=300^{\circ}" /></a>
+
+Next lets `graph` and get our `points`.
+
+![f](https://imgur.com/exnuszj.png)
+
+Because `sin` is related to the `y` value we have our answer. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=sin(\frac{-\pi}{3})=-\frac{\sqrt{3}}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?sin(\frac{-\pi}{3})=-\frac{\sqrt{3}}{2}" title="sin(\frac{-\pi}{3})=-\frac{\sqrt{3}}{2}" /></a>
+
+**How both Solutions relate**
+
+Lets compare both graphs
+
+![f](https://imgur.com/Mt2QOkJ.png)
+
+Another Example
+
+3) <a href="https://www.codecogs.com/eqnedit.php?latex=tan(\frac{-3\pi}{4})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan(\frac{-3\pi}{4})" title="tan(\frac{-3\pi}{4})" /></a>
+
+Using our shortcut:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=tan(\frac{-3\pi}{4})=-tan(\frac{3\pi}{4})=135^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?tan(\frac{-3\pi}{4})=-tan(\frac{3\pi}{4})=135^{\circ}" title="tan(\frac{-3\pi}{4})=-tan(\frac{3\pi}{4})=135^{\circ}" /></a>
+
+![f](https://imgur.com/auoMYxf.png)
+
+Les solve:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-tan(\frac{sin}{cos})=-tan(\frac{y}{x})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-tan(\frac{sin}{cos})=-tan(\frac{y}{x})" title="-tan(\frac{sin}{cos})=-tan(\frac{y}{x})" /></a>
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-tan\frac{\frac{\sqrt{2}}{2}}{-\frac{\sqrt{2}}{2}}=-(\frac{1}{-1})=-(-1)=1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-tan\frac{\frac{\sqrt{2}}{2}}{-\frac{\sqrt{2}}{2}}=-(\frac{1}{-1})=-(-1)=1" title="-tan\frac{\frac{\sqrt{2}}{2}}{-\frac{\sqrt{2}}{2}}=-(\frac{1}{-1})=-(-1)=1" /></a>
+
+
+<h2>Pythagrean Identities</h2>
+
+![f](https://imgur.com/RkgExt9.png)
+
+1) 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin^2\theta=\frac{4}{5}&space;\newline&space;\newline&space;cos^2\theta=?&space;\newline&space;\newline&space;0^{\circ}\leq&space;\theta&space;\leq&space;90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin^2\theta=\frac{4}{5}&space;\newline&space;\newline&space;cos^2\theta=?&space;\newline&space;\newline&space;0^{\circ}\leq&space;\theta&space;\leq&space;90^{\circ}" title="\newline sin^2\theta=\frac{4}{5} \newline \newline cos^2\theta=? \newline \newline 0^{\circ}\leq \theta \leq 90^{\circ}" /></a>
+
+We need to find `cos` of `theta`, we can use Pythagorean identity above. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\Big(\frac{4}{5}\Big)^2&plus;cos^2\theta=1&space;\newline&space;\newline&space;\frac{16}{25}&plus;cos^2\theta=1&space;\newline&space;\newline&space;cos\theta^2=1-\frac{16}{25}&space;\newline&space;\newline&space;cos\theta^2=\frac{9}{25}&space;\newline&space;\newline&space;\sqrt{cos\theta^2}=\sqrt{\frac{9}{25}}&space;\newline&space;=\pm\frac{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\Big(\frac{4}{5}\Big)^2&plus;cos^2\theta=1&space;\newline&space;\newline&space;\frac{16}{25}&plus;cos^2\theta=1&space;\newline&space;\newline&space;cos\theta^2=1-\frac{16}{25}&space;\newline&space;\newline&space;cos\theta^2=\frac{9}{25}&space;\newline&space;\newline&space;\sqrt{cos\theta^2}=\sqrt{\frac{9}{25}}&space;\newline&space;=\pm\frac{3}{5}" title="\newline \Big(\frac{4}{5}\Big)^2+cos^2\theta=1 \newline \newline \frac{16}{25}+cos^2\theta=1 \newline \newline cos\theta^2=1-\frac{16}{25} \newline \newline cos\theta^2=\frac{9}{25} \newline \newline \sqrt{cos\theta^2}=\sqrt{\frac{9}{25}} \newline =\pm\frac{3}{5}" /></a>
+
+We have <a href="https://www.codecogs.com/eqnedit.php?latex=\pm\frac{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pm\frac{3}{5}" title="\pm\frac{3}{5}" /></a> so lets pick `positive` or `negative` value of it. 
+
+Because `theta` is in the range `0 to 90`, that is `quadrant 1`, where the point is `x,y`. Cos is our `x` value, therefore we will select <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3}{5}" title="\frac{3}{5}" /></a> as our final answer 
+
+2) 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;cos\theta=\frac{8}{17}&space;\newline&space;sin\theta&space;=&space;?&space;\newline&space;\newline&space;\frac{3\pi}{2}\leq&space;\theta&space;\leq&space;2\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;cos\theta=\frac{8}{17}&space;\newline&space;sin\theta&space;=&space;?&space;\newline&space;\newline&space;\frac{3\pi}{2}\leq&space;\theta&space;\leq&space;2\pi" title="\newline cos\theta=\frac{8}{17} \newline sin\theta = ? \newline \newline \frac{3\pi}{2}\leq \theta \leq 2\pi" /></a>
+
+We can rewrite the range of angle `theta` in degrees. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{3\pi}{2}\leq&space;\theta&space;\leq&space;2\pi&space;=&space;270^{\circ}&space;\leq&space;\theta&space;\leq&space;360^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{3\pi}{2}\leq&space;\theta&space;\leq&space;2\pi&space;=&space;270^{\circ}&space;\leq&space;\theta&space;\leq&space;360^{\circ}" title="\frac{3\pi}{2}\leq \theta \leq 2\pi = 270^{\circ} \leq \theta \leq 360^{\circ}" /></a>
+
+So `theta` is  between `270` and `360` deg that is quadrant 4. Where the point is `(x,-y)`.
+
+So lets start to solve
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin^2\theta&plus;\frac{8}{17}^2=1&space;\newline&space;\newline&space;sin^2\theta&plus;\frac{64}{289}=1&space;\newline&space;\newline&space;sin^2\theta=1-\frac{64}{289}&space;\newline&space;\newline&space;sin^2\theta=\frac{225}{289}&space;\newline&space;\newline&space;\sqrt{sin^2\theta}=\sqrt{\frac{225}{289}}&space;\newline&space;\newline&space;=\pm&space;\frac{15}{17}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin^2\theta&plus;\frac{8}{17}^2=1&space;\newline&space;\newline&space;sin^2\theta&plus;\frac{64}{289}=1&space;\newline&space;\newline&space;sin^2\theta=1-\frac{64}{289}&space;\newline&space;\newline&space;sin^2\theta=\frac{225}{289}&space;\newline&space;\newline&space;\sqrt{sin^2\theta}=\sqrt{\frac{225}{289}}&space;\newline&space;\newline&space;=\pm&space;\frac{15}{17}" title="\newline sin^2\theta+\frac{8}{17}^2=1 \newline \newline sin^2\theta+\frac{64}{289}=1 \newline \newline sin^2\theta=1-\frac{64}{289} \newline \newline sin^2\theta=\frac{225}{289} \newline \newline \sqrt{sin^2\theta}=\sqrt{\frac{225}{289}} \newline \newline =\pm \frac{15}{17}" /></a>
+
+Because `270 to 360` is in `quadrant 4` we know the point will be in the form `(x,-y)`. Because `sin` is the value we are looking for we select the `-` version therefore 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=-\frac{15}{17}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?-\frac{15}{17}" title="-\frac{15}{17}" /></a>
+
+Is our final answer.
+
+<h1>SOH CAH TOA and Pythagorean Theorem</h1>
+
+Studying right triangles, using the Pythagorean Theorem to solve for them.
+ 
+<a href="https://www.codecogs.com/eqnedit.php?latex=A^2&plus;B^2=C^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A^2&plus;B^2=C^2" title="A^2+B^2=C^2" /></a>
+
+
+<h2>Finding the Value of the 6 Trigonometric Functions</h2>
+
+![f](https://imgur.com/Y9hZb5o.png)
+
+<h3>Common Right Triangle Measurements</h3>
+
+Right triangles will always have some variation of the following measurements for the sides.
+
+`3,4,5`
+
+`5,12,13`
+
+`8,15,17`
+
+`7,24,25`
+
+`9,40,41`
+
+`11,60,61`
+
+Note, any multiples variations of these would work for example `3,4,5` `x3` would be `9, 12, 15` that is the same measurement ratio. 
+
+<h3>Examples</h3>
+
+
+1) 
+
+![f](https://imgur.com/QN7HU4P.png)
+
+First lets find the value of `c` our hypotenuse. We can do so using the Pythagorean theorem.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;3^2&plus;4^2=C^2&space;\newline&space;9&plus;16=C^2&space;\newline&space;\sqrt{25}=\sqrt{c^2}&space;\newline&space;5=C" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;3^2&plus;4^2=C^2&space;\newline&space;9&plus;16=C^2&space;\newline&space;\sqrt{25}=\sqrt{c^2}&space;\newline&space;5=C" title="\newline 3^2+4^2=C^2 \newline 9+16=C^2 \newline \sqrt{25}=\sqrt{c^2} \newline 5=C" /></a>
+
+Next we can begin solving for the 6 trig functions using theses side measurements. Find `sin,cos,tan` first because getting `csc,cot,sec` after that is very easy - its just the inverse of them.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin\theta=\frac{opp}{hyp}=\frac{4}{5}&space;\newline&space;\newline&space;cos\theta=\frac{adj}{hyp}=\frac{3}{5}&space;\newline&space;\newline&space;tan\theta=\frac{opp}{adj}=\frac{4}{3}&space;\newline&space;\newline&space;csc\theta=\frac{5}{4}&space;\newline&space;\newline&space;sec\theta=\frac{5}{3}&space;\newline&space;\newline&space;cot\theta=\frac{3}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin\theta=\frac{opp}{hyp}=\frac{4}{5}&space;\newline&space;\newline&space;cos\theta=\frac{adj}{hyp}=\frac{3}{5}&space;\newline&space;\newline&space;tan\theta=\frac{opp}{adj}=\frac{4}{3}&space;\newline&space;\newline&space;csc\theta=\frac{5}{4}&space;\newline&space;\newline&space;sec\theta=\frac{5}{3}&space;\newline&space;\newline&space;cot\theta=\frac{3}{4}" title="\newline sin\theta=\frac{opp}{hyp}=\frac{4}{5} \newline \newline cos\theta=\frac{adj}{hyp}=\frac{3}{5} \newline \newline tan\theta=\frac{opp}{adj}=\frac{4}{3} \newline \newline csc\theta=\frac{5}{4} \newline \newline sec\theta=\frac{5}{3} \newline \newline cot\theta=\frac{3}{4}" /></a>
+
+
+2) 
+
+![f](https://imgur.com/jQPybsu.png)
+
+We need to find the value of `b` the opposite side of `theta`. To do this use the pythagreum theorem. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;8^2&plus;B^2=17^2&space;\newline&space;64&plus;B^2=289&space;\newline&space;B^2=225&space;\newline&space;\sqrt{B^2}=\sqrt{225}&space;\newline&space;B=15" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;8^2&plus;B^2=17^2&space;\newline&space;64&plus;B^2=289&space;\newline&space;B^2=225&space;\newline&space;\sqrt{B^2}=\sqrt{225}&space;\newline&space;B=15" title="\newline 8^2+B^2=17^2 \newline 64+B^2=289 \newline B^2=225 \newline \sqrt{B^2}=\sqrt{225} \newline B=15" /></a>
+
+Now that we have all sides, we can find the 6 trig functions. Remember find `sin,cos,tan` first because the others are just inverse of them.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin\theta=\frac{15}{17}&space;\newline&space;\newline&space;cos\theta=\frac{8}{17}&space;\newline&space;\newline&space;tan\theta=\frac{15}{8}&space;\newline&space;\newline&space;csc=\frac{17}{15}&space;\newline&space;\newline&space;sec=\frac{17}{8}&space;\newline&space;\newline&space;cot=\frac{8}{15}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin\theta=\frac{15}{17}&space;\newline&space;\newline&space;cos\theta=\frac{8}{17}&space;\newline&space;\newline&space;tan\theta=\frac{15}{8}&space;\newline&space;\newline&space;csc=\frac{17}{15}&space;\newline&space;\newline&space;sec=\frac{17}{8}&space;\newline&space;\newline&space;cot=\frac{8}{15}" title="\newline sin\theta=\frac{15}{17} \newline \newline cos\theta=\frac{8}{17} \newline \newline tan\theta=\frac{15}{8} \newline \newline csc=\frac{17}{15} \newline \newline sec=\frac{17}{8} \newline \newline cot=\frac{8}{15}" /></a>
+
+3)
+
+![f](https://imgur.com/wucs6hZ.png)
+
+First we need to find the missing side, `c`, the `hypotenuse`. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;6^2&plus;4^2=C^2&space;\newline&space;36&plus;16=C^2&space;\newline&space;\sqrt{52}=\sqrt{C^2}&space;\newline&space;2\sqrt{13}=C" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;6^2&plus;4^2=C^2&space;\newline&space;36&plus;16=C^2&space;\newline&space;\sqrt{52}=\sqrt{C^2}&space;\newline&space;2\sqrt{13}=C" title="\newline 6^2+4^2=C^2 \newline 36+16=C^2 \newline \sqrt{52}=\sqrt{C^2} \newline 2\sqrt{13}=C" /></a>
+
+Find 6 trig functions, Remember to rationalize the denominator if it has a square root in denominator. 
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin\theta=\frac{3\sqrt{13}}{13}&space;\newline&space;\newline&space;cos\theta=\frac{2\sqrt{13}}{13}&space;\newline&space;\newline&space;tan\theta=\frac{3}{2}&space;\newline&space;\newline&space;csc=\frac{\sqrt{13}}{2}&space;\newline&space;\newline&space;sec=\frac{\sqrt{13}}{3}&space;\newline&space;\newline&space;cot=\frac{2}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin\theta=\frac{3\sqrt{13}}{13}&space;\newline&space;\newline&space;cos\theta=\frac{2\sqrt{13}}{13}&space;\newline&space;\newline&space;tan\theta=\frac{3}{2}&space;\newline&space;\newline&space;csc=\frac{\sqrt{13}}{2}&space;\newline&space;\newline&space;sec=\frac{\sqrt{13}}{3}&space;\newline&space;\newline&space;cot=\frac{2}{3}" title="\newline sin\theta=\frac{3\sqrt{13}}{13} \newline \newline cos\theta=\frac{2\sqrt{13}}{13} \newline \newline tan\theta=\frac{3}{2} \newline \newline csc=\frac{\sqrt{13}}{2} \newline \newline sec=\frac{\sqrt{13}}{3} \newline \newline cot=\frac{2}{3}" /></a>
+
+
+
+
+
+
+<h2>45 45 90 Isosceles Right Triangle</h2>
+
+Notice with an isosceles right triangle the adjacent and opposite side will always be the same. 
+
+![f](https://imgur.com/A454QYF.png)
+

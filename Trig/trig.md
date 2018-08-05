@@ -1,3 +1,29 @@
+<h2>Fractions</h2>
+
+<h3>Flip Fractions Under 1 Rule</h3>
+
+When you have *stacked fractions* with 1 or 1/1 (which evaluates to 1), can flip the fraction and multiply. 
+
+![f](https://imgur.com/xQQ1A0E.png)
+
+Why does this work? Lets work a few examples out. This also applies if it is `-1` just adjust your sign accordingly.
+
+![f](https://imgur.com/0xDPg4j.png)
+
+<h4>Applications</h4>
+
+The `-1` rule applies in trig. For example the inverse of `sin`,`cos`,`tan` is just `-1`. When you multiply a fraction by `-1` it just inverts the fraction into its reciprocal. 
+
+Just like in this example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\Big(\frac{5}{3}\Big)^{-1}=\frac{-5}{-3}=\frac{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Big(\frac{5}{3}\Big)^{-1}=\frac{-5}{-3}=\frac{3}{5}" title="\Big(\frac{5}{3}\Big)^{-1}=\frac{-5}{-3}=\frac{3}{5}" /></a>
+
+Anytime you move a number across the division bar of the numerator/denominator its sign flips, thats why we can do this. 
+
+Same thing happens with `cos`, `sin`, `tan`.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;cos(\theta)=\frac{3}{7}&space;\newline&space;\theta=cos^{-1}(\frac{3}{7})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;cos(\theta)=\frac{3}{7}&space;\newline&space;\theta=cos^{-1}(\frac{3}{7})" title="\newline cos(\theta)=\frac{3}{7} \newline \theta=cos^{-1}(\frac{3}{7})" /></a>
+
 <h3>Fractions Reminder</h3>
 
 Whenever you see a fraction, the denominator will dictate what its in for example:
@@ -1396,13 +1422,35 @@ Find 6 trig functions, Remember to rationalize the denominator if it has a squar
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;sin\theta=\frac{3\sqrt{13}}{13}&space;\newline&space;\newline&space;cos\theta=\frac{2\sqrt{13}}{13}&space;\newline&space;\newline&space;tan\theta=\frac{3}{2}&space;\newline&space;\newline&space;csc=\frac{\sqrt{13}}{2}&space;\newline&space;\newline&space;sec=\frac{\sqrt{13}}{3}&space;\newline&space;\newline&space;cot=\frac{2}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;sin\theta=\frac{3\sqrt{13}}{13}&space;\newline&space;\newline&space;cos\theta=\frac{2\sqrt{13}}{13}&space;\newline&space;\newline&space;tan\theta=\frac{3}{2}&space;\newline&space;\newline&space;csc=\frac{\sqrt{13}}{2}&space;\newline&space;\newline&space;sec=\frac{\sqrt{13}}{3}&space;\newline&space;\newline&space;cot=\frac{2}{3}" title="\newline sin\theta=\frac{3\sqrt{13}}{13} \newline \newline cos\theta=\frac{2\sqrt{13}}{13} \newline \newline tan\theta=\frac{3}{2} \newline \newline csc=\frac{\sqrt{13}}{2} \newline \newline sec=\frac{\sqrt{13}}{3} \newline \newline cot=\frac{2}{3}" /></a>
 
 
-
-
-
-
 <h2>45 45 90 Isosceles Right Triangle</h2>
 
 Notice with an isosceles right triangle the adjacent and opposite side will always be the same. 
 
 ![f](https://imgur.com/A454QYF.png)
+
+
+Instead of *memorizing* the unit circle, you can solve for a `45 deg` triangle to find the values of `sin,cos,tan`. 
+
+<h2>30-60-90 Special Right Triangle</h2>
+
+Just like the 45/45/90 we can use these values to fill out the unit circle without having to memorize it.
+
+![f](https://imgur.com/GeeA6JQ.png)
+
+<h2>Finding the Value of the Missing SIDE of a Right Triangle</h2>
+
+![f](https://imgur.com/jL7O080.png)
+
+![f](https://imgur.com/lCNxxmL.png)
+
+![f](https://imgur.com/XaggLXH.png)
+
+<h2>Finding the value of the missing ANGLE of a Right Triangle</h2>
+
+For these we will be using `arc sin`, `arc cos`, `arc tan` etc. `arc` is the same thing as saying `inverse sin`. Which is why they are called `inverse trigonometric functions`. 
+
+![f](https://imgur.com/Ovu73r5.png)
+
+![f](https://imgur.com/25u11yC.png)
+
 

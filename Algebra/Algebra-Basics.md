@@ -115,6 +115,21 @@ Why does this work? Lets work a few examples out. This also applies if it is `-1
 
 ![f](https://imgur.com/0xDPg4j.png)
 
+<h4>Applications</h4>
+
+The `-1` rule applies in trig. For example the inverse of `sin`,`cos`,`tan` is just `-1`. When you multiply a fraction by `-1` it just inverts the fraction into its reciprocal. 
+
+Just like in this example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\Big(\frac{5}{3}\Big)^{-1}=\frac{-5}{-3}=\frac{3}{5}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Big(\frac{5}{3}\Big)^{-1}=\frac{-5}{-3}=\frac{3}{5}" title="\Big(\frac{5}{3}\Big)^{-1}=\frac{-5}{-3}=\frac{3}{5}" /></a>
+
+Anytime you move a number across the division bar of the numerator/denominator its sign flips, thats why we can do this. 
+
+Same thing happens with `cos`, `sin`, `tan`.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;cos(\theta)=\frac{3}{7}&space;\newline&space;\theta=cos^{-1}(\frac{3}{7})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;cos(\theta)=\frac{3}{7}&space;\newline&space;\theta=cos^{-1}(\frac{3}{7})" title="\newline cos(\theta)=\frac{3}{7} \newline \theta=cos^{-1}(\frac{3}{7})" /></a>
+
+
 <h3>Fraction Basics</h3>
 
 If we have a fraction such as `5/4` we can describe this as a `improper fraction` because the numerator is larger than the denominator. If the numerator is smaller than the denominator, you know it is less than `1`, or less than `100%`

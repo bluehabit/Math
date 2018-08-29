@@ -4,7 +4,7 @@
 
 <h2>Trig Overview</h2>
 
-They are ratios for right triangles. Relating the length of its side to a given angle. 
+`cos`, `sin` and `tan` are ratios for right triangles. Relating the length of its side to a given angle. 
 
 Under its simplest definition, a trigonometric (lit. "triangle-measuring") function, is one of the many functions that relate one non-right angle of a right triangle to the **ratio of the lengths of any two sides of the triangle (or vice versa)**.
 

@@ -10,6 +10,61 @@ Or we can use trig functions built into our calculator. Both will arrive at the 
 
 ![f](https://imgur.com/m2Rumqp.png)
 
+<h2>Reviewing Ratios and Proportions</h2>
+
+ratios are just expressions that COMPARE quantities. 
+
+Examples:
+
+1) *There are 10 hourses and 5 dogs, what is the ratio of horses to dogs?*
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{10}{5}=\frac{2}{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{10}{5}=\frac{2}{1}" title="\frac{10}{5}=\frac{2}{1}" /></a>
+
+aka `2` to `1` odds. Or `2` horses for every `1` dog.
+
+*What is the ratio of dogs to horses?*
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{5}{10}=\frac{1}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{5}{10}=\frac{1}{2}" title="\frac{5}{10}=\frac{1}{2}" /></a>
+
+aka `1` to `2` odds. Or `1` dog for every `2` horses.
+
+2) 20 Apples, 40 Oranges, 60 Strawberries
+
+Ratio of apples: oranges: strawberries
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=20:40:60&space;=&space;1:2:3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?20:40:60&space;=&space;1:2:3" title="20:40:60 = 1:2:3" /></a>
+
+For every `1` apple there are `2` oranges and `3` strawberries.
+
+*Find ratio of strawberries: oranges: apples*
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=60:40:20=3:2:1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?60:40:20=3:2:1" title="60:40:20=3:2:1" /></a>
+
+For every `3` strawberries there are `2` oranges and `1`apple.
+
+3) Ratio of boys to girls is 2:3 aka <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{3}" title="\frac{2}{3}" /></a> and there are `40` students in the class, how many boys and girls?
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{boys}{girls}=\frac{2}{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{boys}{girls}=\frac{2}{3}" title="\frac{boys}{girls}=\frac{2}{3}" /></a> This means there are (2 + 3) or 5 students per a group. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{40}{5}=5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{40}{5}=8" title="\frac{40}{5}=5" /></a> There are 8 groups total
+
+`8x3 = 24 girls`
+
+`8x2 = 16 boys`
+
+4) Ratio of sheep to chickens to pigs. `2:5:10` (already reduced). There are `51` animals total. How many chickens are there?
+
+`17` per group (2 + 5 + 10) 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{51}{17}=&space;3&space;groups" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{51}{17}=&space;3&space;groups" title="\frac{51}{17}= 3 groups" /></a>
+
+This means we have `3` groups.
+
+3x5 = 15 chickens total.
+
+
+
+
 
 <h2>Fractions</h2>
 

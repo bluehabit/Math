@@ -14,7 +14,19 @@ The cosine function, alonge with sine and tangent, are the 3 most common trigono
 
 Or we can use trig functions built into our calculator. Both will arrive at the same answer. As shown below.
 
-![f](https://imgur.com/m2Rumqp.png)
+![f](https://imgur.com/m2Rumqp.png) 
+
+When you use a calculator to compute trig functions the output is just a unitless number, because its a ratio. Just like if we were to say the ratio of apples to oranges is 2:1, same thing. Its just comparing quantities. So if you were to do <a href="https://www.codecogs.com/eqnedit.php?latex=cos(30^{\circ})=.866" target="_blank"><img src="https://latex.codecogs.com/gif.latex?cos(30^{\circ})=.866" title="cos(30^{\circ})=.866" /></a>, this is unitless as well. 
+
+Remember `SOH`, `CAH`, `TOA` tells you the ratios for all the trigonometric functions.
+
+Just like our examples from the reviewing ratios and proportions section below, where we compare apples to oranges or girls to boys, same thing here. If we have the ratio we can use it to solve for additional information, such as a missing length of one of the triangles sides.
+
+![f](https://imgur.com/xTYPtVa.png)
+
+If its a ratio, then I should be able to use that information to identify a side if its missing. So lets pretend the bottom segment is `x`.  I get `25.98` which is not exactly the `26` measurement in the diagram of that example. This is becuase it is an approximation. 
+
+
 
 <h2>Reviewing Ratios and Proportions</h2>
 

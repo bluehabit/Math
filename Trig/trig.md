@@ -1,3 +1,16 @@
+<h2>Trig Overview</h2>
+
+Under its simplest definition, a trigonometric (lit. "triangle-measuring") function, is one of the many functions that relate one non-right angle of a right triangle to the **ratio of the lengths of any two sides of the triangle (or vice versa)**.
+
+In a *right triangle* the cosine of an angle is the lenght of the adjacent side divided by the length of the hypotenuse. Using SOH CAH TOA, we can see cosine is AH or adjacent/hypotenuse. 
+
+The cosine function, alonge with sine and tangent, are the 3 most common trigonometric functions. In the example below we can either manually calculate it by dividing for ourselves. 
+
+Or we can use trig functions built into our calculator. Both will arrive at the same answer. As shown below.
+
+![f](https://imgur.com/m2Rumqp.png)
+
+
 <h2>Fractions</h2>
 
 <h3>Flip Fractions Under 1 Rule</h3>

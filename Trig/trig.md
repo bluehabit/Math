@@ -4,6 +4,8 @@
 
 <h2>Trig Overview</h2>
 
+They are ratios for right triangles. Relating the length of its side to a given angle. 
+
 Under its simplest definition, a trigonometric (lit. "triangle-measuring") function, is one of the many functions that relate one non-right angle of a right triangle to the **ratio of the lengths of any two sides of the triangle (or vice versa)**.
 
 In a *right triangle* the cosine of an angle is the lenght of the adjacent side divided by the length of the hypotenuse. Using SOH CAH TOA, we can see cosine is AH or adjacent/hypotenuse. 

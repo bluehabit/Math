@@ -1,3 +1,7 @@
+<h2>Vectors</h2>
+
+![f](https://imgur.com/ujeqFLr.png)
+
 <h2>Trig Overview</h2>
 
 Under its simplest definition, a trigonometric (lit. "triangle-measuring") function, is one of the many functions that relate one non-right angle of a right triangle to the **ratio of the lengths of any two sides of the triangle (or vice versa)**.

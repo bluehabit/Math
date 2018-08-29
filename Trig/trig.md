@@ -62,7 +62,39 @@ This means we have `3` groups.
 
 3x5 = 15 chickens total.
 
+<h2> Ratios and Algebra</h2>
 
+1) We have `55` students. The ratio of boys to girls is `4:7` or <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{4}{7}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{4}{7}" title="\frac{4}{7}" /></a>
+
+How many girls do I need to add for the ratio to become 1:2?
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{55}{11}=5&space;groups" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{55}{11}=5&space;groups" title="\frac{55}{11}=5 groups" /></a>
+
+`5 x 4 = 20 boys`
+
+`5 x 7 = 35 girls`
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{20}{35}=\frac{4}{7}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{20}{35}=\frac{4}{7}" title="\frac{20boys}{35girls}=\frac{4}{7}" /></a>
+
+To figure out how to get our new ratio, just literally encode the written problem we have. "How many girls do I need to ADD" for the ratio to become (aka =) 1:2?
+
+Just write that up. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{20}{35&plus;g}=\frac{1}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{20}{35&plus;g}=\frac{1}{2}" title="\frac{20}{35+g}=\frac{1}{2}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\frac{20}{35&plus;g}=\frac{1}{2}&space;\newline&space;\newline&space;40=35&space;&plus;&space;g&space;\newline&space;g=5" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\frac{20}{35&plus;g}=\frac{1}{2}&space;\newline&space;\newline&space;40=35&space;&plus;&space;g&space;\newline&space;g=5" title="\newline \frac{20}{35+g}=\frac{1}{2} \newline \newline 40=35 + g \newline g=5" /></a>
+
+20 boys
+
+35 + 5 girls 
+
+our new ratio becomes
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{20boys}{40girls}=\frac{1}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{20boys}{40girls}=\frac{1}{2}" title="\frac{20boys}{40girls}=\frac{1}{2}" /></a>
+
+Therefore our answer is `5`.
+
+2) https://www.youtube.com/watch?v=ItA_hhRtUuw
 
 
 

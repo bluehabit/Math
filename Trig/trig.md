@@ -1,3 +1,38 @@
+<h2>Classifying Triangles by ANGLE and Sides</h2>
+
+*tri*angles
+
+*tri* the number 3, the study of angles with 3 sides.
+
+Remember all 3 angles of a triangle will always add up to `180 deg`.
+![f](https://imgur.com/dRD9SKW.png)
+
+<h3>Classifying By Angle</h2>
+
+**Acute Angle**
+<a href="https://www.codecogs.com/eqnedit.php?latex=x<90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x<90^{\circ}" title="x<90^{\circ}" /></a>
+
+**Obtuse Angle**
+<a href="https://www.codecogs.com/eqnedit.php?latex=180^{\circ}>x>90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?180^{\circ}>x>90^{\circ}" title="180^{\circ}>x>90^{\circ}" /></a>
+
+
+<h3>Classifying By Sides</h3>
+
+![f](https://imgur.com/y37Kj4d.png)
+
+Equilateral
+![f](https://imgur.com/PviRd2n.png)
+
+Isosceles
+![f](https://imgur.com/N7X6ani.png)
+
+Scalene
+![f](https://imgur.com/ktbEnVY.png)
+
+<h3>Categorizing by Angle AND Sides</h3>
+
+![f](https://imgur.com/ckHS2DO.png)
+
 ![f](https://imgur.com/LF2WjTI.png)
 
 <h2>Vectors</h2>

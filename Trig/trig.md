@@ -9,11 +9,28 @@ Remember all 3 angles of a triangle will always add up to `180 deg`.
 
 <h3>Classifying By Angle</h2>
 
+<h3>Types of Angles</h3>
+
+![f](https://imgur.com/k8lvbkA.png)
+
+![f](https://imgur.com/CameIiA.png)
+
 **Acute Angle**
 <a href="https://www.codecogs.com/eqnedit.php?latex=x<90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x<90^{\circ}" title="x<90^{\circ}" /></a>
 
 **Obtuse Angle**
 <a href="https://www.codecogs.com/eqnedit.php?latex=180^{\circ}>x>90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?180^{\circ}>x>90^{\circ}" title="180^{\circ}>x>90^{\circ}" /></a>
+
+**Right Angle**
+<a href="https://www.codecogs.com/eqnedit.php?latex=x&space;=&space;90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;=&space;90^{\circ}" title="x = 90^{\circ}" /></a>
+
+![f](https://imgur.com/7CSn1HN.png)
+
+After the primary angle has been established (acute, right, obtuse) the other 2 remaining angles will ALWAYS be acute angles. So all triangles must have at least 2 acute angles. Can only have 1 obtuse angle for an obtuse triangle. Can only have 1 right angle for a right triangle. 
+
+The 2 acute angles should always be **complementary** angles. Meaning, they form a right angle, the L shape, and have a sum of `90 deg`. 
+
+**Supplementary Angles** measure `180 deg` 
 
 
 <h3>Classifying By Sides</h3>

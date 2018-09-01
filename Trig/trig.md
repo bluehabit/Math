@@ -15,6 +15,8 @@ Remember all 3 angles of a triangle will always add up to `180 deg`.
 
 ![f](https://imgur.com/CameIiA.png)
 
+Where `x` is measuring an angle
+
 **Acute Angle**
 <a href="https://www.codecogs.com/eqnedit.php?latex=x<90^{\circ}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x<90^{\circ}" title="x<90^{\circ}" /></a>
 

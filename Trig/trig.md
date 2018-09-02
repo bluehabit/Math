@@ -1,8 +1,12 @@
+<h2>Right Triangle and Hypoteneuse</h2>
+
+Only right sided triagnles have a hypoteneuse. It is the longest side of a right-angled triangle, opposite of the right 90 deg angle.
+
 <h2>Classifying Triangles by ANGLE and Sides</h2>
 
 *tri*angles
 
-*tri* the number 3, the study of angles with 3 sides.
+*tri* the number 3, the study of angles with 3 sides. 
 
 Remember all 3 angles of a triangle will always add up to `180 deg`.
 ![f](https://imgur.com/dRD9SKW.png)

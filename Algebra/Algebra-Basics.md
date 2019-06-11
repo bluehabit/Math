@@ -1,3 +1,7 @@
+### Equation Generation Powered By
+
+https://www.codecogs.com/latex/eqneditor.php
+
 <h1>Math</h1>
 
 

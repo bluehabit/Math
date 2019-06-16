@@ -675,7 +675,11 @@ Examples
 
 Numbers like 18, 48, and 50 are not perfect squares bu they do have perfect squares as factors.
 
+![f](https://imgur.com/9Xlv78E.png)
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\newline&space;\sqrt{18}=\sqrt{3^22}=3\sqrt{2}&space;\newline&space;\sqrt{50}=\sqrt{5^22}=5\sqrt{2}&space;\newline&space;\sqrt{48}=\sqrt{2^22^23}=4\sqrt{3}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\newline&space;\sqrt{18}=\sqrt{3^22}=3\sqrt{2}&space;\newline&space;\sqrt{50}=\sqrt{5^22}=5\sqrt{2}&space;\newline&space;\sqrt{48}=\sqrt{2^22^23}=4\sqrt{3}" title="\newline \sqrt{18}=\sqrt{3^22}=3\sqrt{2} \newline \sqrt{50}=\sqrt{5^22}=5\sqrt{2} \newline \sqrt{48}=\sqrt{2^22^23}=4\sqrt{3}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\newline&space;\newline&space;Example&space;1&space;\newline&space;\newline&space;\sqrt[5]{(4x-1)^8}&space;\newline&space;\newline&space;=&space;(4x-1)\sqrt[5]{(4x-1)^3}&space;\newline&space;\newline&space;Example&space;2&space;\newline&space;\newline&space;\sqrt[4]{16x^8}&space;\newline&space;\newline&space;=\sqrt[4]{2^4x^8}&space;=&space;2x^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\newline&space;\newline&space;Example&space;1&space;\newline&space;\newline&space;\sqrt[5]{(4x-1)^8}&space;\newline&space;\newline&space;=&space;(4x-1)\sqrt[5]{(4x-1)^3}&space;\newline&space;\newline&space;Example&space;2&space;\newline&space;\newline&space;\sqrt[4]{16x^8}&space;\newline&space;\newline&space;=\sqrt[4]{2^4x^8}&space;=&space;2x^2" title="\large \newline \newline Example 1 \newline \newline \sqrt[5]{(4x-1)^8} \newline \newline = (4x-1)\sqrt[5]{(4x-1)^3} \newline \newline Example 2 \newline \newline \sqrt[4]{16x^8} \newline \newline =\sqrt[4]{2^4x^8} = 2x^2" /></a>
 
 <h3>Fractions with Roots are not Simplified</h3>
 
